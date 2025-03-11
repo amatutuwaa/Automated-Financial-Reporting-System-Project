@@ -1,0 +1,2001 @@
+Date,Account,Amount,Type
+2023-01-01,Cash,70951,Asset
+2023-01-01,Salaries & Wages,-44259,Expense
+2023-01-01,Short-Term Debt,-20655,Liability
+2023-01-01,Inventory,74997,Asset
+2023-01-01,Long-Term Debt,28768,Liability
+2023-01-01,Inventory,8219,Asset
+2023-01-01,Prepaid Expenses,61603,Asset
+2023-01-01,Marketing Expense,19783,Expense
+2023-01-01,Revenue,-48395,Income
+2023-01-02,Accrued Liabilities,-31311,Liability
+2023-01-02,Prepaid Expenses,-40127,Asset
+2023-01-02,Cash,94923,Asset
+2023-01-02,Marketing Expense,70589,Expense
+2023-01-02,"Property, Plant & Equipment",34526,Asset
+2023-01-02,Depreciation,40453,Expense
+2023-01-03,Investments,55750,Asset
+2023-01-03,Prepaid Expenses,-28602,Asset
+2023-01-03,Long-Term Debt,4383,Liability
+2023-01-03,Interest Expense,76299,Expense
+2023-01-04,Retained Earnings,41198,Equity
+2023-01-04,Prepaid Expenses,-7944,Asset
+2023-01-04,Cost of Goods Sold,13928,Expense
+2023-01-04,Cash,-9458,Asset
+2023-01-04,Depreciation,23788,Expense
+2023-01-04,Accounts Payable,56975,Liability
+2023-01-04,Depreciation,-45008,Expense
+2023-01-04,Accounts Receivable,88421,Asset
+2023-01-05,"Property, Plant & Equipment",-16224,Asset
+2023-01-05,Depreciation,38422,Expense
+2023-01-05,Prepaid Expenses,76083,Asset
+2023-01-05,Retained Earnings,74116,Equity
+2023-01-05,Revenue,89920,Income
+2023-01-05,Short-Term Debt,97616,Liability
+2023-01-05,Interest Expense,-49826,Expense
+2023-01-05,Salaries & Wages,84327,Expense
+2023-01-06,Retained Earnings,66214,Equity
+2023-01-06,Marketing Expense,-46673,Expense
+2023-01-06,"Property, Plant & Equipment",49555,Asset
+2023-01-06,Investments,-27200,Asset
+2023-01-07,Rent Expense,36124,Expense
+2023-01-07,Tax Expense,87046,Expense
+2023-01-07,Cash,64444,Asset
+2023-01-07,Accrued Liabilities,22684,Liability
+2023-01-07,Tax Expense,-37280,Expense
+2023-01-07,Short-Term Debt,-25505,Liability
+2023-01-07,Utilities,11692,Expense
+2023-01-08,Tax Expense,-38849,Expense
+2023-01-08,Marketing Expense,-40163,Expense
+2023-01-08,Inventory,-29138,Asset
+2023-01-08,Cash,86304,Asset
+2023-01-08,Accounts Receivable,-22144,Asset
+2023-01-08,Accrued Liabilities,10410,Liability
+2023-01-09,Prepaid Expenses,95486,Asset
+2023-01-09,Revenue,68580,Income
+2023-01-09,Operating Expenses,57325,Expense
+2023-01-09,Prepaid Expenses,1413,Asset
+2023-01-09,Dividends Paid,36126,Expense
+2023-01-09,Short-Term Debt,18368,Liability
+2023-01-09,Rent Expense,12260,Expense
+2023-01-09,Depreciation,43405,Expense
+2023-01-10,Cost of Goods Sold,11084,Expense
+2023-01-10,"Property, Plant & Equipment",-37808,Asset
+2023-01-10,Cash,-49808,Asset
+2023-01-10,Long-Term Debt,78652,Liability
+2023-01-10,Cash,-31218,Asset
+2023-01-11,Long-Term Debt,-35281,Liability
+2023-01-11,Accounts Payable,-7186,Liability
+2023-01-11,Short-Term Debt,54428,Liability
+2023-01-11,Salaries & Wages,-32759,Expense
+2023-01-11,"Property, Plant & Equipment",-9870,Asset
+2023-01-12,Accounts Receivable,98137,Asset
+2023-01-12,Revenue,25485,Income
+2023-01-12,Retained Earnings,-42548,Equity
+2023-01-12,Revenue,-48927,Income
+2023-01-12,Salaries & Wages,-8150,Expense
+2023-01-12,Short-Term Debt,10610,Liability
+2023-01-12,Depreciation,25609,Expense
+2023-01-12,Retained Earnings,-26815,Equity
+2023-01-12,Prepaid Expenses,39745,Asset
+2023-01-12,Depreciation,66026,Expense
+2023-01-13,Marketing Expense,74591,Expense
+2023-01-13,Salaries & Wages,87605,Expense
+2023-01-13,Accounts Receivable,53591,Asset
+2023-01-13,Accounts Receivable,4319,Asset
+2023-01-13,"Property, Plant & Equipment",88368,Asset
+2023-01-13,Rent Expense,-2426,Expense
+2023-01-14,Salaries & Wages,81936,Expense
+2023-01-14,"Property, Plant & Equipment",52834,Asset
+2023-01-14,Cost of Goods Sold,84404,Expense
+2023-01-14,Revenue,-38906,Income
+2023-01-14,Accrued Liabilities,-7067,Liability
+2023-01-14,Accounts Payable,95083,Liability
+2023-01-14,Utilities,64159,Expense
+2023-01-14,Accrued Liabilities,53751,Liability
+2023-01-14,Utilities,14140,Expense
+2023-01-14,"Property, Plant & Equipment",97745,Asset
+2023-01-15,Rent Expense,-5186,Expense
+2023-01-15,Prepaid Expenses,37939,Asset
+2023-01-15,"Property, Plant & Equipment",15066,Asset
+2023-01-15,Retained Earnings,-40540,Equity
+2023-01-15,Marketing Expense,89784,Expense
+2023-01-15,Dividends Paid,2495,Expense
+2023-01-15,Dividends Paid,-40274,Expense
+2023-01-15,Cash,36567,Asset
+2023-01-16,Cash,1831,Asset
+2023-01-16,Salaries & Wages,34698,Expense
+2023-01-16,Revenue,-40385,Income
+2023-01-17,"Property, Plant & Equipment",43078,Asset
+2023-01-17,Marketing Expense,61462,Expense
+2023-01-17,Prepaid Expenses,48234,Asset
+2023-01-17,"Property, Plant & Equipment",4745,Asset
+2023-01-17,Short-Term Debt,85747,Liability
+2023-01-17,Prepaid Expenses,36346,Asset
+2023-01-17,Long-Term Debt,26382,Liability
+2023-01-18,Retained Earnings,35016,Equity
+2023-01-18,Investments,42708,Asset
+2023-01-18,Rent Expense,60782,Expense
+2023-01-19,Accounts Receivable,36598,Asset
+2023-01-19,Cash,81040,Asset
+2023-01-19,Prepaid Expenses,-15215,Asset
+2023-01-20,Salaries & Wages,7724,Expense
+2023-01-20,Depreciation,91994,Expense
+2023-01-20,Depreciation,31326,Expense
+2023-01-20,Salaries & Wages,80407,Expense
+2023-01-20,Accrued Liabilities,71897,Liability
+2023-01-20,Prepaid Expenses,56616,Asset
+2023-01-21,Inventory,59164,Asset
+2023-01-21,Investments,13232,Asset
+2023-01-21,Rent Expense,-13867,Expense
+2023-01-21,Revenue,95342,Income
+2023-01-22,Prepaid Expenses,-3582,Asset
+2023-01-22,Short-Term Debt,49003,Liability
+2023-01-22,Accounts Receivable,46870,Asset
+2023-01-22,Accrued Liabilities,25945,Liability
+2023-01-22,Inventory,12320,Asset
+2023-01-22,Short-Term Debt,-46738,Liability
+2023-01-23,Salaries & Wages,61718,Expense
+2023-01-23,Depreciation,96158,Expense
+2023-01-23,Interest Expense,66843,Expense
+2023-01-23,"Property, Plant & Equipment",-45994,Asset
+2023-01-23,Investments,90148,Asset
+2023-01-24,Inventory,15756,Asset
+2023-01-24,Tax Expense,63604,Expense
+2023-01-25,"Property, Plant & Equipment",-18077,Asset
+2023-01-25,Salaries & Wages,-4744,Expense
+2023-01-25,Accrued Liabilities,3687,Liability
+2023-01-25,Rent Expense,63880,Expense
+2023-01-25,Accrued Liabilities,-20680,Liability
+2023-01-25,Long-Term Debt,52266,Liability
+2023-01-25,"Property, Plant & Equipment",34811,Asset
+2023-01-25,Depreciation,-48343,Expense
+2023-01-25,Operating Expenses,3664,Expense
+2023-01-26,Interest Expense,55924,Expense
+2023-01-26,Accounts Receivable,-42303,Asset
+2023-01-26,Operating Expenses,-6081,Expense
+2023-01-26,Long-Term Debt,78126,Liability
+2023-01-26,Retained Earnings,51948,Equity
+2023-01-27,Prepaid Expenses,45667,Asset
+2023-01-27,Cost of Goods Sold,-49713,Expense
+2023-01-27,Inventory,-43530,Asset
+2023-01-27,Accounts Receivable,62651,Asset
+2023-01-27,Marketing Expense,50699,Expense
+2023-01-28,Salaries & Wages,-37060,Expense
+2023-01-28,Cost of Goods Sold,-4464,Expense
+2023-01-28,Tax Expense,-351,Expense
+2023-01-28,Marketing Expense,66136,Expense
+2023-01-28,Cash,-45014,Asset
+2023-01-28,Inventory,-29417,Asset
+2023-01-29,Inventory,85899,Asset
+2023-01-29,Depreciation,-16960,Expense
+2023-01-29,Short-Term Debt,38791,Liability
+2023-01-29,Accrued Liabilities,7608,Liability
+2023-01-29,Interest Expense,96971,Expense
+2023-01-29,Interest Expense,-46879,Expense
+2023-01-29,Marketing Expense,55058,Expense
+2023-01-29,Tax Expense,-8223,Expense
+2023-01-30,Investments,71015,Asset
+2023-01-31,Accounts Receivable,69873,Asset
+2023-01-31,Marketing Expense,-5243,Expense
+2023-02-01,Accrued Liabilities,63710,Liability
+2023-02-01,Retained Earnings,19806,Equity
+2023-02-02,Revenue,15942,Income
+2023-02-02,Cost of Goods Sold,-45862,Expense
+2023-02-02,Cash,-38324,Asset
+2023-02-02,Salaries & Wages,57449,Expense
+2023-02-03,Inventory,62470,Asset
+2023-02-03,Utilities,51407,Expense
+2023-02-03,Dividends Paid,39037,Expense
+2023-02-03,Short-Term Debt,-17899,Liability
+2023-02-03,Accounts Receivable,25910,Asset
+2023-02-03,"Property, Plant & Equipment",-43099,Asset
+2023-02-04,Inventory,-33740,Asset
+2023-02-04,Depreciation,-15852,Expense
+2023-02-04,Prepaid Expenses,-47237,Asset
+2023-02-04,Accounts Payable,91013,Liability
+2023-02-04,Dividends Paid,75629,Expense
+2023-02-04,Investments,-7709,Asset
+2023-02-04,Retained Earnings,69729,Equity
+2023-02-05,Inventory,20533,Asset
+2023-02-05,Depreciation,6889,Expense
+2023-02-05,Rent Expense,26709,Expense
+2023-02-05,Salaries & Wages,-16217,Expense
+2023-02-05,Retained Earnings,97044,Equity
+2023-02-05,Prepaid Expenses,14925,Asset
+2023-02-06,Rent Expense,86694,Expense
+2023-02-06,Revenue,88682,Income
+2023-02-06,Cost of Goods Sold,6809,Expense
+2023-02-06,Depreciation,81742,Expense
+2023-02-06,Long-Term Debt,-47358,Liability
+2023-02-06,Salaries & Wages,85028,Expense
+2023-02-07,Retained Earnings,43863,Equity
+2023-02-07,Interest Expense,-43411,Expense
+2023-02-07,Long-Term Debt,-39297,Liability
+2023-02-07,Accrued Liabilities,65194,Liability
+2023-02-07,Rent Expense,-37694,Expense
+2023-02-07,Accrued Liabilities,-44546,Liability
+2023-02-08,"Property, Plant & Equipment",38020,Asset
+2023-02-08,Accounts Receivable,7124,Asset
+2023-02-08,Inventory,97781,Asset
+2023-02-08,Interest Expense,-11288,Expense
+2023-02-08,Accounts Payable,-19324,Liability
+2023-02-08,Operating Expenses,36803,Expense
+2023-02-08,Utilities,11510,Expense
+2023-02-08,Investments,66041,Asset
+2023-02-08,Accrued Liabilities,81764,Liability
+2023-02-08,Tax Expense,61541,Expense
+2023-02-08,Retained Earnings,45961,Equity
+2023-02-08,Depreciation,-14497,Expense
+2023-02-08,"Property, Plant & Equipment",38835,Asset
+2023-02-09,Interest Expense,-40879,Expense
+2023-02-09,Retained Earnings,33829,Equity
+2023-02-09,Prepaid Expenses,98099,Asset
+2023-02-09,Salaries & Wages,71008,Expense
+2023-02-09,Operating Expenses,-49610,Expense
+2023-02-09,Marketing Expense,16727,Expense
+2023-02-09,Long-Term Debt,95399,Liability
+2023-02-10,Rent Expense,52842,Expense
+2023-02-10,Interest Expense,-20291,Expense
+2023-02-10,Marketing Expense,23324,Expense
+2023-02-10,Revenue,72049,Income
+2023-02-10,Interest Expense,68248,Expense
+2023-02-10,Dividends Paid,28824,Expense
+2023-02-10,Dividends Paid,3865,Expense
+2023-02-11,Short-Term Debt,-43141,Liability
+2023-02-11,Rent Expense,70617,Expense
+2023-02-11,Dividends Paid,-33939,Expense
+2023-02-11,Cash,65584,Asset
+2023-02-11,Inventory,10652,Asset
+2023-02-11,Inventory,719,Asset
+2023-02-11,Tax Expense,1033,Expense
+2023-02-12,Interest Expense,-13317,Expense
+2023-02-12,Depreciation,-12595,Expense
+2023-02-13,Operating Expenses,-15128,Expense
+2023-02-13,Investments,1001,Asset
+2023-02-13,Long-Term Debt,51154,Liability
+2023-02-13,Investments,-29137,Asset
+2023-02-13,Dividends Paid,-48519,Expense
+2023-02-13,Accounts Payable,-17917,Liability
+2023-02-14,Accounts Receivable,17391,Asset
+2023-02-14,Investments,-38382,Asset
+2023-02-14,Cost of Goods Sold,63181,Expense
+2023-02-15,Rent Expense,39499,Expense
+2023-02-15,Inventory,2413,Asset
+2023-02-15,Salaries & Wages,-40057,Expense
+2023-02-15,Salaries & Wages,8671,Expense
+2023-02-15,Accounts Receivable,-33001,Asset
+2023-02-15,Inventory,36597,Asset
+2023-02-15,Cost of Goods Sold,40417,Expense
+2023-02-16,Utilities,30165,Expense
+2023-02-16,Cash,6358,Asset
+2023-02-16,Dividends Paid,72672,Expense
+2023-02-16,Utilities,-19427,Expense
+2023-02-16,Cash,13293,Asset
+2023-02-16,Rent Expense,20463,Expense
+2023-02-16,Tax Expense,-16660,Expense
+2023-02-16,Salaries & Wages,-41998,Expense
+2023-02-17,Accrued Liabilities,-36311,Liability
+2023-02-17,Operating Expenses,70062,Expense
+2023-02-17,Cash,-5058,Asset
+2023-02-18,Utilities,11844,Expense
+2023-02-18,Accrued Liabilities,40710,Liability
+2023-02-18,Dividends Paid,-123,Expense
+2023-02-18,Accounts Payable,3053,Liability
+2023-02-19,Prepaid Expenses,-19937,Asset
+2023-02-19,Accounts Receivable,33791,Asset
+2023-02-19,Accrued Liabilities,-11598,Liability
+2023-02-20,Inventory,82702,Asset
+2023-02-20,Salaries & Wages,-16545,Expense
+2023-02-20,Inventory,73030,Asset
+2023-02-20,Prepaid Expenses,43330,Asset
+2023-02-20,Accounts Payable,-14097,Liability
+2023-02-20,"Property, Plant & Equipment",13059,Asset
+2023-02-20,Investments,86949,Asset
+2023-02-20,Accounts Payable,7530,Liability
+2023-02-21,Retained Earnings,-49113,Equity
+2023-02-21,Salaries & Wages,73683,Expense
+2023-02-21,Inventory,-25382,Asset
+2023-02-21,Dividends Paid,34719,Expense
+2023-02-22,Tax Expense,98036,Expense
+2023-02-22,Accounts Payable,34774,Liability
+2023-02-22,Operating Expenses,14729,Expense
+2023-02-22,Prepaid Expenses,-34912,Asset
+2023-02-22,Accounts Payable,68028,Liability
+2023-02-22,Long-Term Debt,19341,Liability
+2023-02-22,Tax Expense,72332,Expense
+2023-02-22,"Property, Plant & Equipment",-27308,Asset
+2023-02-23,Investments,25715,Asset
+2023-02-23,Dividends Paid,-3837,Expense
+2023-02-23,Short-Term Debt,93927,Liability
+2023-02-23,Accounts Receivable,-2635,Asset
+2023-02-23,Depreciation,-48107,Expense
+2023-02-23,Revenue,43027,Income
+2023-02-23,Investments,12061,Asset
+2023-02-23,Accounts Payable,5863,Liability
+2023-02-23,Operating Expenses,61585,Expense
+2023-02-24,Interest Expense,-10831,Expense
+2023-02-24,Cash,62138,Asset
+2023-02-24,"Property, Plant & Equipment",29436,Asset
+2023-02-24,Retained Earnings,64456,Equity
+2023-02-24,Cash,-30771,Asset
+2023-02-24,Accounts Payable,13353,Liability
+2023-02-25,Salaries & Wages,22779,Expense
+2023-02-25,Dividends Paid,42876,Expense
+2023-02-25,Accrued Liabilities,49515,Liability
+2023-02-26,Depreciation,-33001,Expense
+2023-02-26,Salaries & Wages,43076,Expense
+2023-02-27,Dividends Paid,-26614,Expense
+2023-02-27,Accounts Receivable,73364,Asset
+2023-02-27,Cost of Goods Sold,49977,Expense
+2023-02-27,Prepaid Expenses,-12962,Asset
+2023-02-27,Prepaid Expenses,35178,Asset
+2023-02-27,"Property, Plant & Equipment",-43356,Asset
+2023-02-27,Retained Earnings,84678,Equity
+2023-02-27,Utilities,22095,Expense
+2023-02-28,"Property, Plant & Equipment",83251,Asset
+2023-02-28,Retained Earnings,93314,Equity
+2023-02-28,Accounts Receivable,-10654,Asset
+2023-02-28,Dividends Paid,43948,Expense
+2023-02-28,Cash,-22436,Asset
+2023-02-28,Investments,22572,Asset
+2023-02-28,Prepaid Expenses,-8257,Asset
+2023-03-01,Depreciation,-5561,Expense
+2023-03-01,Dividends Paid,92159,Expense
+2023-03-01,Accounts Payable,-48816,Liability
+2023-03-01,Interest Expense,1707,Expense
+2023-03-01,Cost of Goods Sold,55583,Expense
+2023-03-02,"Property, Plant & Equipment",-34011,Asset
+2023-03-02,Accrued Liabilities,7514,Liability
+2023-03-02,Prepaid Expenses,30059,Asset
+2023-03-02,Salaries & Wages,-44457,Expense
+2023-03-02,Salaries & Wages,-37900,Expense
+2023-03-03,Retained Earnings,-29824,Equity
+2023-03-03,Long-Term Debt,94866,Liability
+2023-03-03,Depreciation,71136,Expense
+2023-03-03,Inventory,-1153,Asset
+2023-03-03,Accrued Liabilities,-16724,Liability
+2023-03-03,Accounts Payable,85370,Liability
+2023-03-03,Prepaid Expenses,2975,Asset
+2023-03-04,Prepaid Expenses,-26441,Asset
+2023-03-04,Tax Expense,-3879,Expense
+2023-03-04,Prepaid Expenses,-39411,Asset
+2023-03-04,Dividends Paid,8819,Expense
+2023-03-04,Utilities,-39044,Expense
+2023-03-04,Rent Expense,-36296,Expense
+2023-03-04,Prepaid Expenses,92180,Asset
+2023-03-04,Cost of Goods Sold,-37644,Expense
+2023-03-04,Cost of Goods Sold,-16081,Expense
+2023-03-05,Accrued Liabilities,-5870,Liability
+2023-03-05,"Property, Plant & Equipment",75849,Asset
+2023-03-05,Salaries & Wages,-38016,Expense
+2023-03-06,Retained Earnings,-45766,Equity
+2023-03-06,Long-Term Debt,19087,Liability
+2023-03-06,Investments,-42507,Asset
+2023-03-06,Dividends Paid,-30596,Expense
+2023-03-07,Tax Expense,68027,Expense
+2023-03-07,Marketing Expense,33434,Expense
+2023-03-07,Retained Earnings,99335,Equity
+2023-03-07,"Property, Plant & Equipment",49303,Asset
+2023-03-08,Prepaid Expenses,97531,Asset
+2023-03-08,Accrued Liabilities,-18973,Liability
+2023-03-08,Cash,82659,Asset
+2023-03-09,Dividends Paid,88746,Expense
+2023-03-09,Long-Term Debt,17384,Liability
+2023-03-09,Cost of Goods Sold,98376,Expense
+2023-03-10,Accounts Payable,-34466,Liability
+2023-03-10,Tax Expense,-23931,Expense
+2023-03-10,Marketing Expense,89707,Expense
+2023-03-10,Investments,8829,Asset
+2023-03-10,Rent Expense,-9047,Expense
+2023-03-10,Marketing Expense,91871,Expense
+2023-03-10,Utilities,-6144,Expense
+2023-03-11,Rent Expense,-26334,Expense
+2023-03-11,Operating Expenses,97175,Expense
+2023-03-13,Inventory,-17770,Asset
+2023-03-13,Retained Earnings,16641,Equity
+2023-03-13,Operating Expenses,20411,Expense
+2023-03-13,Operating Expenses,12712,Expense
+2023-03-13,Cash,3473,Asset
+2023-03-13,"Property, Plant & Equipment",-4381,Asset
+2023-03-14,Long-Term Debt,37592,Liability
+2023-03-14,Inventory,83913,Asset
+2023-03-14,Interest Expense,29526,Expense
+2023-03-14,"Property, Plant & Equipment",13909,Asset
+2023-03-15,Prepaid Expenses,98725,Asset
+2023-03-15,Cost of Goods Sold,-27412,Expense
+2023-03-16,Depreciation,-8757,Expense
+2023-03-16,Prepaid Expenses,-46252,Asset
+2023-03-16,Depreciation,79974,Expense
+2023-03-16,Investments,39959,Asset
+2023-03-16,Utilities,68542,Expense
+2023-03-16,Tax Expense,27694,Expense
+2023-03-16,Dividends Paid,67229,Expense
+2023-03-17,Prepaid Expenses,4460,Asset
+2023-03-17,"Property, Plant & Equipment",-24536,Asset
+2023-03-17,Utilities,50546,Expense
+2023-03-17,Inventory,-37774,Asset
+2023-03-17,Cost of Goods Sold,30428,Expense
+2023-03-17,Utilities,-15307,Expense
+2023-03-18,Marketing Expense,95817,Expense
+2023-03-18,Short-Term Debt,-407,Liability
+2023-03-19,Short-Term Debt,67473,Liability
+2023-03-19,Marketing Expense,63931,Expense
+2023-03-19,Depreciation,-17994,Expense
+2023-03-19,Accounts Receivable,5798,Asset
+2023-03-19,Accounts Receivable,19504,Asset
+2023-03-19,Prepaid Expenses,16253,Asset
+2023-03-20,Cash,68128,Asset
+2023-03-20,Accounts Payable,76613,Liability
+2023-03-21,Salaries & Wages,81870,Expense
+2023-03-21,Operating Expenses,36724,Expense
+2023-03-21,Prepaid Expenses,86319,Asset
+2023-03-21,Utilities,-6106,Expense
+2023-03-22,Retained Earnings,4219,Equity
+2023-03-22,Cost of Goods Sold,-32424,Expense
+2023-03-22,Inventory,72746,Asset
+2023-03-22,Tax Expense,88261,Expense
+2023-03-22,Depreciation,35076,Expense
+2023-03-22,Tax Expense,-45074,Expense
+2023-03-22,Revenue,83682,Income
+2023-03-23,Rent Expense,79744,Expense
+2023-03-23,Salaries & Wages,56244,Expense
+2023-03-23,Dividends Paid,57594,Expense
+2023-03-23,Short-Term Debt,-21074,Liability
+2023-03-23,Cost of Goods Sold,-27073,Expense
+2023-03-24,Inventory,95787,Asset
+2023-03-24,"Property, Plant & Equipment",2265,Asset
+2023-03-25,Dividends Paid,35058,Expense
+2023-03-25,Cash,13972,Asset
+2023-03-25,Retained Earnings,65828,Equity
+2023-03-25,Cost of Goods Sold,43474,Expense
+2023-03-25,Tax Expense,68222,Expense
+2023-03-25,Salaries & Wages,21042,Expense
+2023-03-25,Operating Expenses,64816,Expense
+2023-03-25,Interest Expense,49485,Expense
+2023-03-26,Cash,-44250,Asset
+2023-03-26,"Property, Plant & Equipment",2003,Asset
+2023-03-27,"Property, Plant & Equipment",70592,Asset
+2023-03-27,"Property, Plant & Equipment",59903,Asset
+2023-03-27,Revenue,6759,Income
+2023-03-27,"Property, Plant & Equipment",26436,Asset
+2023-03-27,Salaries & Wages,86690,Expense
+2023-03-27,Utilities,43095,Expense
+2023-03-28,Interest Expense,50766,Expense
+2023-03-28,Accounts Receivable,-28362,Asset
+2023-03-28,Accounts Payable,-42013,Liability
+2023-03-28,Interest Expense,-44305,Expense
+2023-03-29,"Property, Plant & Equipment",-11804,Asset
+2023-03-29,Inventory,-17234,Asset
+2023-03-29,Revenue,68474,Income
+2023-03-30,Depreciation,46622,Expense
+2023-03-30,Cash,18312,Asset
+2023-03-30,Accounts Receivable,79572,Asset
+2023-03-30,Interest Expense,-46547,Expense
+2023-03-30,"Property, Plant & Equipment",-39225,Asset
+2023-03-30,Accrued Liabilities,36207,Liability
+2023-03-31,Interest Expense,-19092,Expense
+2023-03-31,Inventory,48300,Asset
+2023-03-31,Rent Expense,-38650,Expense
+2023-03-31,Revenue,-12452,Income
+2023-03-31,Accrued Liabilities,68094,Liability
+2023-03-31,Rent Expense,57524,Expense
+2023-03-31,Depreciation,-8021,Expense
+2023-04-01,Short-Term Debt,70721,Liability
+2023-04-02,Rent Expense,59814,Expense
+2023-04-02,Marketing Expense,38059,Expense
+2023-04-02,Utilities,55973,Expense
+2023-04-02,Operating Expenses,-24500,Expense
+2023-04-02,Short-Term Debt,-24,Liability
+2023-04-02,Interest Expense,67358,Expense
+2023-04-02,Revenue,85994,Income
+2023-04-02,Accounts Payable,50260,Liability
+2023-04-02,Marketing Expense,19922,Expense
+2023-04-03,Interest Expense,26848,Expense
+2023-04-03,Short-Term Debt,-27501,Liability
+2023-04-03,Dividends Paid,41563,Expense
+2023-04-03,Operating Expenses,-42399,Expense
+2023-04-03,Dividends Paid,94972,Expense
+2023-04-04,Retained Earnings,43664,Equity
+2023-04-04,Utilities,43500,Expense
+2023-04-04,Rent Expense,85639,Expense
+2023-04-05,Operating Expenses,92867,Expense
+2023-04-05,Rent Expense,54188,Expense
+2023-04-05,Rent Expense,-8847,Expense
+2023-04-05,Short-Term Debt,-49131,Liability
+2023-04-05,Long-Term Debt,92482,Liability
+2023-04-05,Rent Expense,73246,Expense
+2023-04-05,Inventory,-26431,Asset
+2023-04-05,Accrued Liabilities,61497,Liability
+2023-04-06,Prepaid Expenses,91727,Asset
+2023-04-06,Long-Term Debt,18842,Liability
+2023-04-06,Inventory,-948,Asset
+2023-04-06,Long-Term Debt,19166,Liability
+2023-04-06,Marketing Expense,-15325,Expense
+2023-04-06,Utilities,42036,Expense
+2023-04-06,Short-Term Debt,70209,Liability
+2023-04-06,Long-Term Debt,85758,Liability
+2023-04-07,Utilities,24960,Expense
+2023-04-07,Salaries & Wages,76155,Expense
+2023-04-07,Accounts Payable,10128,Liability
+2023-04-07,Prepaid Expenses,-10447,Asset
+2023-04-08,Operating Expenses,-21836,Expense
+2023-04-08,Marketing Expense,60041,Expense
+2023-04-08,Depreciation,56511,Expense
+2023-04-08,Accounts Payable,52171,Liability
+2023-04-08,Investments,-3454,Asset
+2023-04-08,Cash,31845,Asset
+2023-04-08,Prepaid Expenses,91407,Asset
+2023-04-08,Operating Expenses,39132,Expense
+2023-04-09,Accrued Liabilities,-47907,Liability
+2023-04-09,Cash,-48694,Asset
+2023-04-09,Accounts Payable,55686,Liability
+2023-04-09,Rent Expense,68333,Expense
+2023-04-09,Depreciation,16897,Expense
+2023-04-09,Depreciation,47088,Expense
+2023-04-09,Accrued Liabilities,-41974,Liability
+2023-04-09,Short-Term Debt,27242,Liability
+2023-04-09,Marketing Expense,41404,Expense
+2023-04-09,Rent Expense,16216,Expense
+2023-04-09,Utilities,-1558,Expense
+2023-04-10,"Property, Plant & Equipment",74168,Asset
+2023-04-10,Operating Expenses,-40744,Expense
+2023-04-10,"Property, Plant & Equipment",-10918,Asset
+2023-04-10,Accounts Receivable,23870,Asset
+2023-04-10,Dividends Paid,70076,Expense
+2023-04-11,Prepaid Expenses,-35141,Asset
+2023-04-11,Dividends Paid,68248,Expense
+2023-04-11,Salaries & Wages,-21193,Expense
+2023-04-11,Retained Earnings,61576,Equity
+2023-04-11,Cash,68696,Asset
+2023-04-11,Retained Earnings,63502,Equity
+2023-04-11,Revenue,31257,Income
+2023-04-11,Tax Expense,-8480,Expense
+2023-04-12,Prepaid Expenses,-23730,Asset
+2023-04-12,Inventory,19322,Asset
+2023-04-13,Cash,17789,Asset
+2023-04-13,Interest Expense,-30977,Expense
+2023-04-13,Short-Term Debt,-34265,Liability
+2023-04-13,"Property, Plant & Equipment",3521,Asset
+2023-04-13,Operating Expenses,81208,Expense
+2023-04-13,Cost of Goods Sold,-34583,Expense
+2023-04-14,Retained Earnings,-19734,Equity
+2023-04-14,Investments,-3001,Asset
+2023-04-14,Operating Expenses,67192,Expense
+2023-04-14,Marketing Expense,-18583,Expense
+2023-04-14,Rent Expense,-39249,Expense
+2023-04-14,Cash,61023,Asset
+2023-04-14,Salaries & Wages,-28933,Expense
+2023-04-14,Rent Expense,15618,Expense
+2023-04-15,Accounts Receivable,31441,Asset
+2023-04-15,Salaries & Wages,9546,Expense
+2023-04-15,Accounts Payable,40101,Liability
+2023-04-15,Rent Expense,-1709,Expense
+2023-04-16,Depreciation,-29077,Expense
+2023-04-16,Interest Expense,26173,Expense
+2023-04-16,Marketing Expense,1925,Expense
+2023-04-16,Salaries & Wages,20744,Expense
+2023-04-16,Marketing Expense,61435,Expense
+2023-04-17,Cost of Goods Sold,50211,Expense
+2023-04-17,Retained Earnings,40436,Equity
+2023-04-17,Short-Term Debt,90090,Liability
+2023-04-17,Inventory,86028,Asset
+2023-04-18,Investments,-26592,Asset
+2023-04-18,Marketing Expense,73664,Expense
+2023-04-18,Prepaid Expenses,-17702,Asset
+2023-04-18,Accrued Liabilities,-34040,Liability
+2023-04-18,Interest Expense,59975,Expense
+2023-04-19,Cash,-14446,Asset
+2023-04-19,Inventory,33793,Asset
+2023-04-19,Cost of Goods Sold,-16278,Expense
+2023-04-20,Retained Earnings,-46442,Equity
+2023-04-21,"Property, Plant & Equipment",-31926,Asset
+2023-04-21,Accounts Receivable,-49934,Asset
+2023-04-21,Inventory,81562,Asset
+2023-04-21,Investments,67797,Asset
+2023-04-21,Rent Expense,27485,Expense
+2023-04-21,Inventory,12559,Asset
+2023-04-21,Interest Expense,99351,Expense
+2023-04-21,Investments,25886,Asset
+2023-04-21,Retained Earnings,-30308,Equity
+2023-04-21,Marketing Expense,-36591,Expense
+2023-04-22,Utilities,4330,Expense
+2023-04-22,Investments,-5175,Asset
+2023-04-22,Prepaid Expenses,31132,Asset
+2023-04-22,"Property, Plant & Equipment",44283,Asset
+2023-04-22,Utilities,8817,Expense
+2023-04-23,Tax Expense,-30448,Expense
+2023-04-23,Interest Expense,-38331,Expense
+2023-04-23,Utilities,68639,Expense
+2023-04-23,Revenue,31938,Income
+2023-04-23,Tax Expense,27789,Expense
+2023-04-23,Investments,60966,Asset
+2023-04-23,Revenue,10272,Income
+2023-04-23,Accrued Liabilities,-34784,Liability
+2023-04-23,Revenue,-40073,Income
+2023-04-23,Accounts Payable,-5959,Liability
+2023-04-24,Accrued Liabilities,87854,Liability
+2023-04-24,Short-Term Debt,-4905,Liability
+2023-04-24,Utilities,33384,Expense
+2023-04-24,Interest Expense,20843,Expense
+2023-04-25,Cash,-4125,Asset
+2023-04-25,Dividends Paid,-15422,Expense
+2023-04-25,Tax Expense,20021,Expense
+2023-04-25,Cost of Goods Sold,-43524,Expense
+2023-04-26,Interest Expense,5276,Expense
+2023-04-26,Depreciation,77426,Expense
+2023-04-26,"Property, Plant & Equipment",-44270,Asset
+2023-04-26,Revenue,-39897,Income
+2023-04-27,Rent Expense,31788,Expense
+2023-04-27,Long-Term Debt,28533,Liability
+2023-04-27,Cash,-3582,Asset
+2023-04-27,Tax Expense,-42765,Expense
+2023-04-27,Cost of Goods Sold,97878,Expense
+2023-04-27,Long-Term Debt,14925,Liability
+2023-04-27,Retained Earnings,95406,Equity
+2023-04-28,Rent Expense,11602,Expense
+2023-04-28,Depreciation,34726,Expense
+2023-04-28,Operating Expenses,-702,Expense
+2023-04-28,Accrued Liabilities,40221,Liability
+2023-04-28,Depreciation,16809,Expense
+2023-04-28,Retained Earnings,-36745,Equity
+2023-04-28,Accounts Payable,-32882,Liability
+2023-04-29,"Property, Plant & Equipment",19518,Asset
+2023-04-29,Short-Term Debt,1137,Liability
+2023-04-29,Rent Expense,86285,Expense
+2023-04-29,Cost of Goods Sold,43185,Expense
+2023-04-30,Utilities,-45761,Expense
+2023-04-30,Accounts Receivable,-20207,Asset
+2023-04-30,Marketing Expense,73489,Expense
+2023-04-30,Cash,66590,Asset
+2023-04-30,Cost of Goods Sold,32666,Expense
+2023-04-30,Investments,43782,Asset
+2023-04-30,Accounts Receivable,19855,Asset
+2023-05-01,Tax Expense,-38126,Expense
+2023-05-01,Retained Earnings,96259,Equity
+2023-05-01,Operating Expenses,77815,Expense
+2023-05-02,Utilities,62025,Expense
+2023-05-02,Rent Expense,-48119,Expense
+2023-05-02,Accrued Liabilities,-24061,Liability
+2023-05-02,Accounts Receivable,-6061,Asset
+2023-05-02,Marketing Expense,-22784,Expense
+2023-05-02,Interest Expense,62492,Expense
+2023-05-02,Rent Expense,-47841,Expense
+2023-05-02,Investments,2691,Asset
+2023-05-02,Dividends Paid,96069,Expense
+2023-05-03,Operating Expenses,40909,Expense
+2023-05-03,Rent Expense,28672,Expense
+2023-05-03,Cost of Goods Sold,-7578,Expense
+2023-05-03,Marketing Expense,97973,Expense
+2023-05-04,Depreciation,-22759,Expense
+2023-05-04,Accrued Liabilities,9778,Liability
+2023-05-04,"Property, Plant & Equipment",-22482,Asset
+2023-05-05,Long-Term Debt,42759,Liability
+2023-05-05,Operating Expenses,-44102,Expense
+2023-05-05,Operating Expenses,-47813,Expense
+2023-05-06,Investments,25403,Asset
+2023-05-06,Interest Expense,25277,Expense
+2023-05-06,Dividends Paid,22307,Expense
+2023-05-06,Marketing Expense,-35969,Expense
+2023-05-06,Accounts Receivable,-12772,Asset
+2023-05-06,Interest Expense,47406,Expense
+2023-05-07,Dividends Paid,-40657,Expense
+2023-05-07,Cost of Goods Sold,-8542,Expense
+2023-05-07,Cash,-15350,Asset
+2023-05-07,Retained Earnings,23233,Equity
+2023-05-07,Utilities,-31069,Expense
+2023-05-08,Investments,57445,Asset
+2023-05-08,Cash,10380,Asset
+2023-05-08,Inventory,-5184,Asset
+2023-05-08,Cost of Goods Sold,41829,Expense
+2023-05-08,Interest Expense,-8753,Expense
+2023-05-08,Marketing Expense,75355,Expense
+2023-05-08,Accounts Receivable,18136,Asset
+2023-05-09,Interest Expense,-17080,Expense
+2023-05-09,Cash,60168,Asset
+2023-05-09,Tax Expense,39037,Expense
+2023-05-09,Prepaid Expenses,97265,Asset
+2023-05-10,Short-Term Debt,9658,Liability
+2023-05-10,Prepaid Expenses,-49076,Asset
+2023-05-10,Utilities,39312,Expense
+2023-05-10,"Property, Plant & Equipment",54245,Asset
+2023-05-10,Salaries & Wages,-43489,Expense
+2023-05-10,Long-Term Debt,98441,Liability
+2023-05-10,Prepaid Expenses,88918,Asset
+2023-05-11,Depreciation,63943,Expense
+2023-05-11,Cost of Goods Sold,19590,Expense
+2023-05-11,Cost of Goods Sold,-24325,Expense
+2023-05-11,Depreciation,49575,Expense
+2023-05-11,Cash,-6639,Asset
+2023-05-11,Marketing Expense,-21008,Expense
+2023-05-11,Dividends Paid,-19266,Expense
+2023-05-11,Salaries & Wages,-10745,Expense
+2023-05-11,Accrued Liabilities,-9851,Liability
+2023-05-12,Accrued Liabilities,83175,Liability
+2023-05-12,Dividends Paid,20204,Expense
+2023-05-12,Revenue,58297,Income
+2023-05-13,Cost of Goods Sold,50706,Expense
+2023-05-13,Long-Term Debt,-3170,Liability
+2023-05-13,Accrued Liabilities,-4009,Liability
+2023-05-13,Short-Term Debt,55982,Liability
+2023-05-13,Marketing Expense,73099,Expense
+2023-05-13,Interest Expense,-46916,Expense
+2023-05-13,Marketing Expense,2953,Expense
+2023-05-13,Inventory,14550,Asset
+2023-05-14,"Property, Plant & Equipment",44881,Asset
+2023-05-14,"Property, Plant & Equipment",8002,Asset
+2023-05-14,Inventory,50667,Asset
+2023-05-14,Cash,3822,Asset
+2023-05-14,Tax Expense,-37503,Expense
+2023-05-14,Dividends Paid,52828,Expense
+2023-05-14,Short-Term Debt,44715,Liability
+2023-05-15,Cash,-4905,Asset
+2023-05-15,Rent Expense,80970,Expense
+2023-05-15,Utilities,35774,Expense
+2023-05-16,Short-Term Debt,-46252,Liability
+2023-05-16,Depreciation,90347,Expense
+2023-05-16,Accounts Payable,-30390,Liability
+2023-05-16,Long-Term Debt,92228,Liability
+2023-05-17,Tax Expense,26918,Expense
+2023-05-17,Operating Expenses,29558,Expense
+2023-05-17,Cost of Goods Sold,-24099,Expense
+2023-05-17,Cost of Goods Sold,-38558,Expense
+2023-05-17,Operating Expenses,10354,Expense
+2023-05-17,Marketing Expense,47137,Expense
+2023-05-18,Tax Expense,37438,Expense
+2023-05-18,Prepaid Expenses,27963,Asset
+2023-05-19,Inventory,93464,Asset
+2023-05-19,Accounts Receivable,83872,Asset
+2023-05-20,Investments,24816,Asset
+2023-05-20,Prepaid Expenses,55573,Asset
+2023-05-20,Accounts Receivable,-18046,Asset
+2023-05-21,Investments,24842,Asset
+2023-05-21,Long-Term Debt,28537,Liability
+2023-05-21,Cost of Goods Sold,78585,Expense
+2023-05-21,Accounts Receivable,-9137,Asset
+2023-05-21,Long-Term Debt,519,Liability
+2023-05-22,Investments,74857,Asset
+2023-05-22,Investments,-36348,Asset
+2023-05-22,"Property, Plant & Equipment",84066,Asset
+2023-05-23,Inventory,37959,Asset
+2023-05-23,Marketing Expense,54975,Expense
+2023-05-23,Inventory,80976,Asset
+2023-05-23,Rent Expense,-23600,Expense
+2023-05-23,Rent Expense,-44897,Expense
+2023-05-23,Rent Expense,87150,Expense
+2023-05-24,Depreciation,-17179,Expense
+2023-05-24,Accrued Liabilities,-41360,Liability
+2023-05-24,Accounts Payable,-14261,Liability
+2023-05-24,Marketing Expense,18798,Expense
+2023-05-24,Cost of Goods Sold,63053,Expense
+2023-05-24,Tax Expense,61072,Expense
+2023-05-24,Depreciation,37796,Expense
+2023-05-24,Short-Term Debt,68490,Liability
+2023-05-25,Investments,25602,Asset
+2023-05-25,Dividends Paid,-35692,Expense
+2023-05-25,Depreciation,29878,Expense
+2023-05-25,Retained Earnings,71724,Equity
+2023-05-25,Depreciation,67449,Expense
+2023-05-25,Inventory,-38228,Asset
+2023-05-25,Cash,66525,Asset
+2023-05-25,Rent Expense,78308,Expense
+2023-05-25,Prepaid Expenses,-48300,Asset
+2023-05-26,Salaries & Wages,66547,Expense
+2023-05-26,Depreciation,66545,Expense
+2023-05-26,Cash,62701,Asset
+2023-05-26,Retained Earnings,-3078,Equity
+2023-05-26,Utilities,-44406,Expense
+2023-05-27,Dividends Paid,-1060,Expense
+2023-05-27,Accrued Liabilities,13965,Liability
+2023-05-27,Accrued Liabilities,44837,Liability
+2023-05-27,Marketing Expense,-6871,Expense
+2023-05-27,"Property, Plant & Equipment",89282,Asset
+2023-05-27,Accounts Payable,40265,Liability
+2023-05-27,Inventory,-39558,Asset
+2023-05-27,Prepaid Expenses,53061,Asset
+2023-05-27,Inventory,43422,Asset
+2023-05-27,Revenue,-13532,Income
+2023-05-28,Revenue,95263,Income
+2023-05-28,Interest Expense,79036,Expense
+2023-05-28,Cash,26361,Asset
+2023-05-28,Dividends Paid,-21698,Expense
+2023-05-28,Retained Earnings,-5694,Equity
+2023-05-28,Accounts Receivable,8741,Asset
+2023-05-28,Dividends Paid,93326,Expense
+2023-05-28,Salaries & Wages,47718,Expense
+2023-05-29,Interest Expense,25209,Expense
+2023-05-29,Revenue,33178,Income
+2023-05-29,Operating Expenses,29267,Expense
+2023-05-29,Short-Term Debt,-3750,Liability
+2023-05-30,Tax Expense,58464,Expense
+2023-05-30,Short-Term Debt,-20137,Liability
+2023-05-30,Salaries & Wages,-15460,Expense
+2023-05-30,Short-Term Debt,27243,Liability
+2023-05-30,Inventory,-6144,Asset
+2023-05-31,Operating Expenses,80356,Expense
+2023-05-31,Accrued Liabilities,-10822,Liability
+2023-05-31,Inventory,-40723,Asset
+2023-05-31,Retained Earnings,-43413,Equity
+2023-05-31,Prepaid Expenses,53119,Asset
+2023-05-31,Operating Expenses,-44332,Expense
+2023-06-01,Tax Expense,81184,Expense
+2023-06-01,Salaries & Wages,41328,Expense
+2023-06-01,Accounts Payable,-12656,Liability
+2023-06-01,Salaries & Wages,94738,Expense
+2023-06-01,Cash,22055,Asset
+2023-06-01,Salaries & Wages,-48187,Expense
+2023-06-01,Operating Expenses,-6046,Expense
+2023-06-01,Accounts Receivable,-48949,Asset
+2023-06-01,Salaries & Wages,-16335,Expense
+2023-06-01,Rent Expense,14892,Expense
+2023-06-02,Operating Expenses,-2685,Expense
+2023-06-02,Operating Expenses,-39932,Expense
+2023-06-02,Cash,971,Asset
+2023-06-02,Cost of Goods Sold,-37095,Expense
+2023-06-02,Interest Expense,45676,Expense
+2023-06-02,Accounts Payable,94403,Liability
+2023-06-02,Cash,97026,Asset
+2023-06-03,Dividends Paid,-33721,Expense
+2023-06-03,Accrued Liabilities,-8653,Liability
+2023-06-03,Dividends Paid,15149,Expense
+2023-06-03,Prepaid Expenses,-8062,Asset
+2023-06-03,Tax Expense,9754,Expense
+2023-06-03,Long-Term Debt,94993,Liability
+2023-06-03,Revenue,-12966,Income
+2023-06-03,Depreciation,30201,Expense
+2023-06-04,Marketing Expense,31982,Expense
+2023-06-04,Accounts Receivable,-42789,Asset
+2023-06-04,Accounts Payable,21045,Liability
+2023-06-04,Prepaid Expenses,86109,Asset
+2023-06-05,Operating Expenses,9807,Expense
+2023-06-05,Tax Expense,45989,Expense
+2023-06-06,Investments,28077,Asset
+2023-06-06,Accrued Liabilities,49319,Liability
+2023-06-06,Retained Earnings,99888,Equity
+2023-06-06,Inventory,-29116,Asset
+2023-06-06,Rent Expense,79593,Expense
+2023-06-06,Interest Expense,73769,Expense
+2023-06-07,Dividends Paid,-15603,Expense
+2023-06-07,Cost of Goods Sold,-39549,Expense
+2023-06-07,"Property, Plant & Equipment",-2766,Asset
+2023-06-07,"Property, Plant & Equipment",63753,Asset
+2023-06-07,Prepaid Expenses,61900,Asset
+2023-06-07,Long-Term Debt,-14267,Liability
+2023-06-07,Operating Expenses,-14301,Expense
+2023-06-08,Accrued Liabilities,49572,Liability
+2023-06-08,Marketing Expense,-777,Expense
+2023-06-08,Depreciation,41873,Expense
+2023-06-09,Rent Expense,-28958,Expense
+2023-06-09,Accounts Payable,5633,Liability
+2023-06-09,Prepaid Expenses,9722,Asset
+2023-06-09,Inventory,21947,Asset
+2023-06-09,Marketing Expense,-7863,Expense
+2023-06-09,Prepaid Expenses,91650,Asset
+2023-06-09,Prepaid Expenses,56609,Asset
+2023-06-09,Tax Expense,77992,Expense
+2023-06-09,Marketing Expense,-22952,Expense
+2023-06-09,Revenue,55686,Income
+2023-06-10,Operating Expenses,34381,Expense
+2023-06-10,Retained Earnings,58946,Equity
+2023-06-10,Inventory,58369,Asset
+2023-06-10,Investments,-759,Asset
+2023-06-10,Revenue,29534,Income
+2023-06-10,Marketing Expense,20442,Expense
+2023-06-10,Operating Expenses,28513,Expense
+2023-06-10,Inventory,-26752,Asset
+2023-06-10,Utilities,-28684,Expense
+2023-06-11,Cost of Goods Sold,-7326,Expense
+2023-06-11,Revenue,11799,Income
+2023-06-11,Dividends Paid,78447,Expense
+2023-06-11,Cash,7649,Asset
+2023-06-12,Investments,-478,Asset
+2023-06-12,Rent Expense,59200,Expense
+2023-06-12,Accounts Receivable,-49283,Asset
+2023-06-12,Interest Expense,77572,Expense
+2023-06-12,Marketing Expense,-33068,Expense
+2023-06-12,Dividends Paid,27603,Expense
+2023-06-12,"Property, Plant & Equipment",13,Asset
+2023-06-13,Accounts Receivable,98246,Asset
+2023-06-13,Accounts Receivable,83609,Asset
+2023-06-13,Cost of Goods Sold,-35974,Expense
+2023-06-13,"Property, Plant & Equipment",21196,Asset
+2023-06-13,Long-Term Debt,21334,Liability
+2023-06-13,Depreciation,37923,Expense
+2023-06-14,Inventory,99515,Asset
+2023-06-14,Dividends Paid,-18915,Expense
+2023-06-14,Long-Term Debt,88419,Liability
+2023-06-14,Marketing Expense,27986,Expense
+2023-06-14,Operating Expenses,49694,Expense
+2023-06-14,Prepaid Expenses,3747,Asset
+2023-06-14,Depreciation,-20937,Expense
+2023-06-15,Tax Expense,23193,Expense
+2023-06-15,Accrued Liabilities,30863,Liability
+2023-06-15,Accounts Receivable,27154,Asset
+2023-06-15,Revenue,34817,Income
+2023-06-15,Depreciation,31533,Expense
+2023-06-16,"Property, Plant & Equipment",52476,Asset
+2023-06-16,Rent Expense,12433,Expense
+2023-06-17,Tax Expense,46444,Expense
+2023-06-17,Accounts Receivable,-6605,Asset
+2023-06-17,Rent Expense,17766,Expense
+2023-06-17,Interest Expense,48064,Expense
+2023-06-17,Accounts Payable,19300,Liability
+2023-06-18,Short-Term Debt,66506,Liability
+2023-06-18,Short-Term Debt,-1215,Liability
+2023-06-19,Investments,14427,Asset
+2023-06-19,Marketing Expense,63903,Expense
+2023-06-19,Tax Expense,75814,Expense
+2023-06-19,Accounts Receivable,-3849,Asset
+2023-06-19,Cost of Goods Sold,-14068,Expense
+2023-06-19,"Property, Plant & Equipment",88426,Asset
+2023-06-19,Dividends Paid,19463,Expense
+2023-06-19,Dividends Paid,47493,Expense
+2023-06-19,Accounts Receivable,24601,Asset
+2023-06-20,Dividends Paid,16471,Expense
+2023-06-20,Marketing Expense,-27092,Expense
+2023-06-20,Investments,20305,Asset
+2023-06-20,Long-Term Debt,82201,Liability
+2023-06-21,Cost of Goods Sold,71987,Expense
+2023-06-21,Accounts Receivable,34040,Asset
+2023-06-21,Long-Term Debt,17087,Liability
+2023-06-21,Accrued Liabilities,94282,Liability
+2023-06-21,Tax Expense,-27069,Expense
+2023-06-21,Inventory,56464,Asset
+2023-06-22,Depreciation,14286,Expense
+2023-06-22,Prepaid Expenses,41036,Asset
+2023-06-22,Prepaid Expenses,-46642,Asset
+2023-06-22,Short-Term Debt,87844,Liability
+2023-06-22,Investments,-5964,Asset
+2023-06-22,Marketing Expense,83248,Expense
+2023-06-22,Dividends Paid,98447,Expense
+2023-06-22,Short-Term Debt,45985,Liability
+2023-06-22,Inventory,-6531,Asset
+2023-06-23,Prepaid Expenses,-27163,Asset
+2023-06-23,Accounts Payable,67603,Liability
+2023-06-23,Cash,85530,Asset
+2023-06-23,Operating Expenses,47624,Expense
+2023-06-24,Rent Expense,41128,Expense
+2023-06-24,Short-Term Debt,1322,Liability
+2023-06-24,Retained Earnings,-29300,Equity
+2023-06-24,Cash,25318,Asset
+2023-06-24,Cash,62341,Asset
+2023-06-25,Prepaid Expenses,47557,Asset
+2023-06-25,Short-Term Debt,31422,Liability
+2023-06-25,Accounts Receivable,-42648,Asset
+2023-06-25,Rent Expense,41176,Expense
+2023-06-25,Accounts Payable,22255,Liability
+2023-06-26,Retained Earnings,-14069,Equity
+2023-06-26,Utilities,45632,Expense
+2023-06-26,Short-Term Debt,19639,Liability
+2023-06-26,Prepaid Expenses,82534,Asset
+2023-06-26,Operating Expenses,49956,Expense
+2023-06-26,Tax Expense,-25481,Expense
+2023-06-26,Interest Expense,-29565,Expense
+2023-06-26,"Property, Plant & Equipment",70927,Asset
+2023-06-26,Investments,-24483,Asset
+2023-06-27,Salaries & Wages,-21069,Expense
+2023-06-27,Accrued Liabilities,-4135,Liability
+2023-06-27,Accrued Liabilities,45430,Liability
+2023-06-27,Prepaid Expenses,-43695,Asset
+2023-06-27,Accounts Receivable,98082,Asset
+2023-06-27,Retained Earnings,-13818,Equity
+2023-06-28,Cost of Goods Sold,62669,Expense
+2023-06-28,Operating Expenses,71688,Expense
+2023-06-28,Salaries & Wages,79887,Expense
+2023-06-28,Dividends Paid,90489,Expense
+2023-06-28,Retained Earnings,85506,Equity
+2023-06-28,Tax Expense,90262,Expense
+2023-06-29,Rent Expense,28270,Expense
+2023-06-29,Interest Expense,66192,Expense
+2023-06-29,Cash,-39122,Asset
+2023-06-29,Tax Expense,16960,Expense
+2023-06-29,Cost of Goods Sold,-35613,Expense
+2023-06-29,Tax Expense,73130,Expense
+2023-06-30,Cash,-33878,Asset
+2023-06-30,Dividends Paid,-35494,Expense
+2023-06-30,"Property, Plant & Equipment",48071,Asset
+2023-06-30,"Property, Plant & Equipment",-39375,Asset
+2023-06-30,Dividends Paid,50297,Expense
+2023-07-01,Depreciation,18207,Expense
+2023-07-01,Interest Expense,-37609,Expense
+2023-07-01,Salaries & Wages,113,Expense
+2023-07-01,Accounts Payable,97596,Liability
+2023-07-02,Marketing Expense,12790,Expense
+2023-07-02,Prepaid Expenses,-6702,Asset
+2023-07-02,Retained Earnings,50485,Equity
+2023-07-02,Depreciation,28542,Expense
+2023-07-03,Salaries & Wages,66841,Expense
+2023-07-03,Long-Term Debt,91633,Liability
+2023-07-03,Utilities,-17046,Expense
+2023-07-03,Investments,-47538,Asset
+2023-07-04,"Property, Plant & Equipment",99696,Asset
+2023-07-04,Utilities,82992,Expense
+2023-07-05,Prepaid Expenses,13185,Asset
+2023-07-05,Operating Expenses,32722,Expense
+2023-07-05,Salaries & Wages,-26717,Expense
+2023-07-05,Utilities,-44133,Expense
+2023-07-05,Operating Expenses,60986,Expense
+2023-07-06,Accrued Liabilities,34149,Liability
+2023-07-06,Prepaid Expenses,-23951,Asset
+2023-07-06,Marketing Expense,50922,Expense
+2023-07-06,Operating Expenses,-4167,Expense
+2023-07-06,Accrued Liabilities,54433,Liability
+2023-07-06,Accounts Receivable,99696,Asset
+2023-07-06,Accrued Liabilities,88202,Liability
+2023-07-07,Depreciation,-21367,Expense
+2023-07-07,Short-Term Debt,43846,Liability
+2023-07-07,Short-Term Debt,89347,Liability
+2023-07-07,Marketing Expense,17616,Expense
+2023-07-07,Depreciation,-46841,Expense
+2023-07-07,Cost of Goods Sold,84345,Expense
+2023-07-07,Dividends Paid,60674,Expense
+2023-07-07,Utilities,-48986,Expense
+2023-07-08,Utilities,72439,Expense
+2023-07-08,Dividends Paid,6635,Expense
+2023-07-08,Short-Term Debt,13811,Liability
+2023-07-09,Revenue,53306,Income
+2023-07-09,Revenue,88286,Income
+2023-07-09,Revenue,-1992,Income
+2023-07-09,Retained Earnings,14887,Equity
+2023-07-09,Cost of Goods Sold,-24475,Expense
+2023-07-09,Rent Expense,75555,Expense
+2023-07-09,Cost of Goods Sold,78128,Expense
+2023-07-10,Long-Term Debt,10142,Liability
+2023-07-10,Cash,29818,Asset
+2023-07-10,Cash,60317,Asset
+2023-07-10,Marketing Expense,36436,Expense
+2023-07-11,Interest Expense,5798,Expense
+2023-07-11,Accounts Payable,-41672,Liability
+2023-07-11,Accrued Liabilities,-49083,Liability
+2023-07-11,Operating Expenses,96902,Expense
+2023-07-11,Accounts Payable,32806,Liability
+2023-07-11,Operating Expenses,-22414,Expense
+2023-07-11,Depreciation,80526,Expense
+2023-07-11,Accounts Receivable,-944,Asset
+2023-07-11,Inventory,-3998,Asset
+2023-07-12,Revenue,-22157,Income
+2023-07-12,Revenue,-49680,Income
+2023-07-12,Accounts Payable,77251,Liability
+2023-07-13,Depreciation,-49797,Expense
+2023-07-13,Accounts Receivable,76796,Asset
+2023-07-13,Accrued Liabilities,77581,Liability
+2023-07-13,Cash,23903,Asset
+2023-07-13,Cost of Goods Sold,-29611,Expense
+2023-07-14,Investments,-15300,Asset
+2023-07-14,Depreciation,81250,Expense
+2023-07-14,Accounts Payable,16788,Liability
+2023-07-14,Cost of Goods Sold,40140,Expense
+2023-07-14,Long-Term Debt,76244,Liability
+2023-07-14,Investments,28543,Asset
+2023-07-14,Cost of Goods Sold,40009,Expense
+2023-07-15,Revenue,-47618,Income
+2023-07-15,Revenue,40385,Income
+2023-07-15,Operating Expenses,-32587,Expense
+2023-07-15,Prepaid Expenses,-2889,Asset
+2023-07-16,Marketing Expense,16630,Expense
+2023-07-16,Salaries & Wages,9821,Expense
+2023-07-16,Cost of Goods Sold,70318,Expense
+2023-07-17,Rent Expense,33639,Expense
+2023-07-17,Short-Term Debt,36610,Liability
+2023-07-17,Accrued Liabilities,1913,Liability
+2023-07-17,Retained Earnings,61426,Equity
+2023-07-17,Tax Expense,78467,Expense
+2023-07-17,Prepaid Expenses,26623,Asset
+2023-07-17,Revenue,98955,Income
+2023-07-17,Operating Expenses,8160,Expense
+2023-07-18,Accrued Liabilities,19453,Liability
+2023-07-18,Operating Expenses,44876,Expense
+2023-07-18,Operating Expenses,86132,Expense
+2023-07-18,Short-Term Debt,36226,Liability
+2023-07-19,Long-Term Debt,81004,Liability
+2023-07-19,Marketing Expense,-25958,Expense
+2023-07-20,Short-Term Debt,44543,Liability
+2023-07-20,Accounts Receivable,71585,Asset
+2023-07-20,"Property, Plant & Equipment",-21770,Asset
+2023-07-20,Rent Expense,45598,Expense
+2023-07-20,"Property, Plant & Equipment",88335,Asset
+2023-07-20,Investments,14575,Asset
+2023-07-21,Cost of Goods Sold,-46031,Expense
+2023-07-21,Cash,47537,Asset
+2023-07-21,Cost of Goods Sold,45402,Expense
+2023-07-21,Rent Expense,13212,Expense
+2023-07-21,Operating Expenses,-11916,Expense
+2023-07-21,Accounts Payable,-21621,Liability
+2023-07-21,Accounts Payable,94228,Liability
+2023-07-21,Prepaid Expenses,5571,Asset
+2023-07-22,Short-Term Debt,54092,Liability
+2023-07-22,Accounts Payable,11576,Liability
+2023-07-22,Long-Term Debt,77314,Liability
+2023-07-23,Salaries & Wages,-39696,Expense
+2023-07-23,Salaries & Wages,34607,Expense
+2023-07-23,Long-Term Debt,37902,Liability
+2023-07-23,Operating Expenses,81965,Expense
+2023-07-24,Revenue,4353,Income
+2023-07-24,Marketing Expense,37954,Expense
+2023-07-24,Rent Expense,29823,Expense
+2023-07-25,Investments,494,Asset
+2023-07-25,Accrued Liabilities,23984,Liability
+2023-07-25,"Property, Plant & Equipment",62230,Asset
+2023-07-25,Accounts Receivable,31471,Asset
+2023-07-26,Marketing Expense,-47015,Expense
+2023-07-26,Investments,52552,Asset
+2023-07-26,Cost of Goods Sold,25225,Expense
+2023-07-26,Interest Expense,-11775,Expense
+2023-07-27,Prepaid Expenses,-21116,Asset
+2023-07-27,Prepaid Expenses,35216,Asset
+2023-07-27,Depreciation,32289,Expense
+2023-07-27,Marketing Expense,75844,Expense
+2023-07-27,Inventory,15524,Asset
+2023-07-28,Long-Term Debt,-33572,Liability
+2023-07-28,Accrued Liabilities,54215,Liability
+2023-07-28,Interest Expense,36486,Expense
+2023-07-29,Operating Expenses,91355,Expense
+2023-07-29,Accounts Receivable,29788,Asset
+2023-07-29,Accrued Liabilities,98929,Liability
+2023-07-29,Investments,2227,Asset
+2023-07-30,Revenue,97580,Income
+2023-07-30,Revenue,-47119,Income
+2023-07-31,Tax Expense,71757,Expense
+2023-07-31,Revenue,25033,Income
+2023-07-31,Cost of Goods Sold,22518,Expense
+2023-08-01,Dividends Paid,46393,Expense
+2023-08-01,Rent Expense,93704,Expense
+2023-08-01,Accounts Payable,86213,Liability
+2023-08-01,Interest Expense,3592,Expense
+2023-08-02,Investments,64527,Asset
+2023-08-02,Depreciation,12021,Expense
+2023-08-02,Cash,44242,Asset
+2023-08-02,Investments,75659,Asset
+2023-08-02,Revenue,-49664,Income
+2023-08-02,Inventory,36402,Asset
+2023-08-03,Salaries & Wages,-19901,Expense
+2023-08-03,Accounts Receivable,-24509,Asset
+2023-08-03,Accrued Liabilities,42910,Liability
+2023-08-03,Interest Expense,85958,Expense
+2023-08-03,Long-Term Debt,-16623,Liability
+2023-08-03,Tax Expense,258,Expense
+2023-08-03,Investments,-607,Asset
+2023-08-03,Cost of Goods Sold,30077,Expense
+2023-08-03,Tax Expense,80193,Expense
+2023-08-03,Utilities,46907,Expense
+2023-08-03,Rent Expense,80429,Expense
+2023-08-04,Salaries & Wages,40477,Expense
+2023-08-04,Dividends Paid,91625,Expense
+2023-08-04,Operating Expenses,51968,Expense
+2023-08-04,Interest Expense,49214,Expense
+2023-08-04,Dividends Paid,91382,Expense
+2023-08-04,Long-Term Debt,25504,Liability
+2023-08-05,Retained Earnings,39049,Equity
+2023-08-05,Depreciation,70018,Expense
+2023-08-05,Tax Expense,63985,Expense
+2023-08-05,Cash,-22803,Asset
+2023-08-05,Accounts Receivable,60138,Asset
+2023-08-05,Long-Term Debt,75829,Liability
+2023-08-05,Accrued Liabilities,45345,Liability
+2023-08-05,Prepaid Expenses,97705,Asset
+2023-08-06,Retained Earnings,69639,Equity
+2023-08-06,Investments,25426,Asset
+2023-08-06,Accounts Receivable,-41403,Asset
+2023-08-06,Accounts Payable,43526,Liability
+2023-08-06,Depreciation,39116,Expense
+2023-08-06,Operating Expenses,42268,Expense
+2023-08-06,"Property, Plant & Equipment",-48534,Asset
+2023-08-07,"Property, Plant & Equipment",40071,Asset
+2023-08-07,Cash,41321,Asset
+2023-08-08,Depreciation,93697,Expense
+2023-08-08,Cash,-10896,Asset
+2023-08-08,Retained Earnings,93279,Equity
+2023-08-08,Dividends Paid,-3780,Expense
+2023-08-08,Inventory,21154,Asset
+2023-08-08,Inventory,-35092,Asset
+2023-08-08,Accounts Payable,-24046,Liability
+2023-08-08,Dividends Paid,81642,Expense
+2023-08-09,Accrued Liabilities,17163,Liability
+2023-08-09,Interest Expense,61249,Expense
+2023-08-10,Long-Term Debt,-44394,Liability
+2023-08-10,"Property, Plant & Equipment",-31081,Asset
+2023-08-10,"Property, Plant & Equipment",96480,Asset
+2023-08-10,Salaries & Wages,-34190,Expense
+2023-08-10,Inventory,84164,Asset
+2023-08-10,Depreciation,49352,Expense
+2023-08-10,Tax Expense,63978,Expense
+2023-08-11,Salaries & Wages,-4087,Expense
+2023-08-11,Revenue,66477,Income
+2023-08-11,Revenue,99329,Income
+2023-08-11,Utilities,940,Expense
+2023-08-11,Interest Expense,-14056,Expense
+2023-08-11,Depreciation,21576,Expense
+2023-08-11,Utilities,-26618,Expense
+2023-08-11,Accrued Liabilities,-28161,Liability
+2023-08-11,Cost of Goods Sold,53780,Expense
+2023-08-12,Rent Expense,76700,Expense
+2023-08-12,Utilities,-26011,Expense
+2023-08-12,Short-Term Debt,-29677,Liability
+2023-08-12,Accrued Liabilities,73723,Liability
+2023-08-12,Tax Expense,-27836,Expense
+2023-08-12,Dividends Paid,67126,Expense
+2023-08-12,Investments,-38431,Asset
+2023-08-12,Depreciation,82886,Expense
+2023-08-12,Salaries & Wages,-35317,Expense
+2023-08-13,Depreciation,48239,Expense
+2023-08-13,Investments,-30523,Asset
+2023-08-13,Interest Expense,31486,Expense
+2023-08-13,Revenue,12901,Income
+2023-08-13,Marketing Expense,-12673,Expense
+2023-08-13,Marketing Expense,67626,Expense
+2023-08-13,Long-Term Debt,-3784,Liability
+2023-08-14,Cost of Goods Sold,-36767,Expense
+2023-08-14,Accounts Receivable,77006,Asset
+2023-08-14,Cost of Goods Sold,-35307,Expense
+2023-08-14,Long-Term Debt,3311,Liability
+2023-08-14,Interest Expense,85909,Expense
+2023-08-14,Operating Expenses,46452,Expense
+2023-08-14,"Property, Plant & Equipment",4318,Asset
+2023-08-14,Investments,68920,Asset
+2023-08-14,Prepaid Expenses,-31843,Asset
+2023-08-15,Interest Expense,-24784,Expense
+2023-08-15,Salaries & Wages,20014,Expense
+2023-08-15,Salaries & Wages,73099,Expense
+2023-08-15,Marketing Expense,57286,Expense
+2023-08-15,Marketing Expense,26872,Expense
+2023-08-15,Prepaid Expenses,57049,Asset
+2023-08-15,Cost of Goods Sold,99180,Expense
+2023-08-15,Accrued Liabilities,59162,Liability
+2023-08-15,Inventory,-35611,Asset
+2023-08-15,Investments,82610,Asset
+2023-08-15,Depreciation,95281,Expense
+2023-08-16,Depreciation,72650,Expense
+2023-08-16,Inventory,34425,Asset
+2023-08-16,Accounts Payable,87263,Liability
+2023-08-16,Cost of Goods Sold,45386,Expense
+2023-08-16,Investments,-13361,Asset
+2023-08-17,Accounts Receivable,50649,Asset
+2023-08-17,Salaries & Wages,-25352,Expense
+2023-08-17,Inventory,20453,Asset
+2023-08-17,Cash,81379,Asset
+2023-08-17,Revenue,18309,Income
+2023-08-17,Long-Term Debt,94989,Liability
+2023-08-17,Accounts Payable,-37547,Liability
+2023-08-17,Short-Term Debt,-1197,Liability
+2023-08-17,Inventory,25324,Asset
+2023-08-18,Depreciation,-39722,Expense
+2023-08-18,Prepaid Expenses,15133,Asset
+2023-08-19,"Property, Plant & Equipment",45102,Asset
+2023-08-19,Cash,41649,Asset
+2023-08-19,Salaries & Wages,21569,Expense
+2023-08-19,Long-Term Debt,29414,Liability
+2023-08-19,Accounts Receivable,-45827,Asset
+2023-08-19,Accrued Liabilities,-42467,Liability
+2023-08-19,Dividends Paid,-11502,Expense
+2023-08-19,Marketing Expense,22373,Expense
+2023-08-20,Salaries & Wages,39904,Expense
+2023-08-21,Accrued Liabilities,97595,Liability
+2023-08-21,Accounts Receivable,67333,Asset
+2023-08-21,Long-Term Debt,73099,Liability
+2023-08-21,Utilities,-15515,Expense
+2023-08-21,Tax Expense,96510,Expense
+2023-08-21,Accounts Payable,92961,Liability
+2023-08-21,Short-Term Debt,31972,Liability
+2023-08-21,Utilities,2349,Expense
+2023-08-21,Accounts Payable,-10150,Liability
+2023-08-21,Inventory,86355,Asset
+2023-08-21,Long-Term Debt,-444,Liability
+2023-08-22,Salaries & Wages,72035,Expense
+2023-08-22,Utilities,22827,Expense
+2023-08-23,Rent Expense,15982,Expense
+2023-08-23,Depreciation,38302,Expense
+2023-08-23,Short-Term Debt,-42515,Liability
+2023-08-23,Investments,-13517,Asset
+2023-08-24,Cash,-20037,Asset
+2023-08-24,Interest Expense,86587,Expense
+2023-08-24,Revenue,-15246,Income
+2023-08-24,Inventory,-30691,Asset
+2023-08-24,"Property, Plant & Equipment",32569,Asset
+2023-08-24,Cost of Goods Sold,54601,Expense
+2023-08-24,Salaries & Wages,99682,Expense
+2023-08-24,Long-Term Debt,39524,Liability
+2023-08-25,Investments,52811,Asset
+2023-08-25,Rent Expense,-43636,Expense
+2023-08-25,Accounts Payable,-46822,Liability
+2023-08-25,Long-Term Debt,24229,Liability
+2023-08-25,Short-Term Debt,-49485,Liability
+2023-08-25,Accounts Payable,59369,Liability
+2023-08-25,Interest Expense,-47292,Expense
+2023-08-25,Salaries & Wages,50356,Expense
+2023-08-26,Operating Expenses,-45983,Expense
+2023-08-26,Short-Term Debt,-12842,Liability
+2023-08-26,Cost of Goods Sold,24055,Expense
+2023-08-26,Interest Expense,-35322,Expense
+2023-08-27,Marketing Expense,52638,Expense
+2023-08-27,Long-Term Debt,-8802,Liability
+2023-08-27,Investments,-35921,Asset
+2023-08-27,Cash,58106,Asset
+2023-08-27,Tax Expense,48618,Expense
+2023-08-27,Operating Expenses,-15848,Expense
+2023-08-27,Short-Term Debt,31006,Liability
+2023-08-27,"Property, Plant & Equipment",60107,Asset
+2023-08-28,Cash,87080,Asset
+2023-08-28,Revenue,95328,Income
+2023-08-28,Retained Earnings,99134,Equity
+2023-08-28,Dividends Paid,64091,Expense
+2023-08-29,Revenue,36133,Income
+2023-08-29,Operating Expenses,-19229,Expense
+2023-08-29,"Property, Plant & Equipment",-8672,Asset
+2023-08-30,Tax Expense,1717,Expense
+2023-08-30,Accounts Payable,70667,Liability
+2023-08-30,Cost of Goods Sold,72808,Expense
+2023-08-30,"Property, Plant & Equipment",8502,Asset
+2023-08-30,Utilities,54927,Expense
+2023-08-30,Tax Expense,36795,Expense
+2023-08-31,Accounts Payable,34577,Liability
+2023-08-31,Accounts Receivable,-2355,Asset
+2023-08-31,Interest Expense,72226,Expense
+2023-08-31,Accounts Payable,-10806,Liability
+2023-08-31,Long-Term Debt,57205,Liability
+2023-08-31,Rent Expense,210,Expense
+2023-08-31,Retained Earnings,18116,Equity
+2023-09-01,"Property, Plant & Equipment",7221,Asset
+2023-09-01,Short-Term Debt,50772,Liability
+2023-09-01,Marketing Expense,-20908,Expense
+2023-09-02,Accounts Receivable,733,Asset
+2023-09-03,Dividends Paid,76649,Expense
+2023-09-03,Short-Term Debt,36971,Liability
+2023-09-03,Operating Expenses,7062,Expense
+2023-09-03,Dividends Paid,-13587,Expense
+2023-09-03,Revenue,20409,Income
+2023-09-04,Long-Term Debt,80956,Liability
+2023-09-04,Salaries & Wages,58117,Expense
+2023-09-04,Marketing Expense,-830,Expense
+2023-09-04,Salaries & Wages,44776,Expense
+2023-09-04,Depreciation,28116,Expense
+2023-09-04,Utilities,705,Expense
+2023-09-04,Accrued Liabilities,-2986,Liability
+2023-09-04,Salaries & Wages,-21073,Expense
+2023-09-06,Inventory,98690,Asset
+2023-09-06,Cost of Goods Sold,88442,Expense
+2023-09-06,Investments,29211,Asset
+2023-09-06,Cost of Goods Sold,-27990,Expense
+2023-09-06,Utilities,89335,Expense
+2023-09-06,Long-Term Debt,-24434,Liability
+2023-09-07,Inventory,40456,Asset
+2023-09-07,Cost of Goods Sold,70562,Expense
+2023-09-07,Prepaid Expenses,-23384,Asset
+2023-09-07,Salaries & Wages,-9858,Expense
+2023-09-07,Cost of Goods Sold,40932,Expense
+2023-09-07,Short-Term Debt,57340,Liability
+2023-09-08,Rent Expense,23290,Expense
+2023-09-08,Retained Earnings,85624,Equity
+2023-09-08,Utilities,-46271,Expense
+2023-09-08,Tax Expense,96612,Expense
+2023-09-08,Dividends Paid,16677,Expense
+2023-09-08,Rent Expense,-33649,Expense
+2023-09-08,Inventory,56719,Asset
+2023-09-09,Accrued Liabilities,38229,Liability
+2023-09-09,Prepaid Expenses,-2107,Asset
+2023-09-09,Operating Expenses,-37640,Expense
+2023-09-09,Interest Expense,51754,Expense
+2023-09-09,Marketing Expense,-39986,Expense
+2023-09-09,Utilities,48046,Expense
+2023-09-09,Utilities,26312,Expense
+2023-09-10,Dividends Paid,-12981,Expense
+2023-09-10,Short-Term Debt,-34084,Liability
+2023-09-10,Cash,83653,Asset
+2023-09-10,Accounts Payable,32409,Liability
+2023-09-10,Long-Term Debt,11169,Liability
+2023-09-10,Accounts Receivable,-7002,Asset
+2023-09-11,Operating Expenses,-6382,Expense
+2023-09-11,Utilities,56121,Expense
+2023-09-11,Utilities,80841,Expense
+2023-09-11,"Property, Plant & Equipment",-20773,Asset
+2023-09-11,Utilities,-9613,Expense
+2023-09-12,Accounts Receivable,-38651,Asset
+2023-09-12,Cash,-15002,Asset
+2023-09-12,Utilities,23914,Expense
+2023-09-12,Utilities,45556,Expense
+2023-09-13,Rent Expense,-41976,Expense
+2023-09-13,Long-Term Debt,60684,Liability
+2023-09-13,Revenue,-37252,Income
+2023-09-14,Marketing Expense,22833,Expense
+2023-09-14,Cash,94670,Asset
+2023-09-14,Prepaid Expenses,-41469,Asset
+2023-09-14,Cash,90431,Asset
+2023-09-14,Rent Expense,62752,Expense
+2023-09-14,Accrued Liabilities,82681,Liability
+2023-09-14,Investments,99359,Asset
+2023-09-14,Cash,-20563,Asset
+2023-09-15,Prepaid Expenses,-35329,Asset
+2023-09-15,Accrued Liabilities,28532,Liability
+2023-09-15,Rent Expense,54700,Expense
+2023-09-16,Long-Term Debt,33886,Liability
+2023-09-16,Tax Expense,-25665,Expense
+2023-09-16,Rent Expense,64879,Expense
+2023-09-16,Revenue,53937,Income
+2023-09-16,Revenue,72564,Income
+2023-09-16,Accrued Liabilities,96232,Liability
+2023-09-16,Accounts Payable,-34359,Liability
+2023-09-17,Revenue,45742,Income
+2023-09-17,Accrued Liabilities,33014,Liability
+2023-09-17,Dividends Paid,13014,Expense
+2023-09-18,Cash,-39272,Asset
+2023-09-18,Accrued Liabilities,23369,Liability
+2023-09-18,Retained Earnings,93277,Equity
+2023-09-18,Investments,94341,Asset
+2023-09-18,Tax Expense,-17034,Expense
+2023-09-18,Accounts Payable,82018,Liability
+2023-09-18,Cash,28257,Asset
+2023-09-19,Revenue,90167,Income
+2023-09-19,Short-Term Debt,15911,Liability
+2023-09-19,Long-Term Debt,435,Liability
+2023-09-19,Short-Term Debt,-18621,Liability
+2023-09-19,Interest Expense,63650,Expense
+2023-09-19,"Property, Plant & Equipment",52484,Asset
+2023-09-19,Accounts Payable,16537,Liability
+2023-09-20,Short-Term Debt,-46151,Liability
+2023-09-20,Depreciation,-24905,Expense
+2023-09-21,Cost of Goods Sold,-49269,Expense
+2023-09-21,Depreciation,72778,Expense
+2023-09-21,Depreciation,96621,Expense
+2023-09-21,Accrued Liabilities,-46168,Liability
+2023-09-21,Interest Expense,-38936,Expense
+2023-09-21,Tax Expense,-18219,Expense
+2023-09-21,Utilities,-11654,Expense
+2023-09-21,Investments,11753,Asset
+2023-09-21,Marketing Expense,82206,Expense
+2023-09-21,Retained Earnings,-19659,Equity
+2023-09-21,Long-Term Debt,86645,Liability
+2023-09-22,Long-Term Debt,58944,Liability
+2023-09-22,Revenue,87686,Income
+2023-09-22,Operating Expenses,-36220,Expense
+2023-09-23,Accrued Liabilities,-25296,Liability
+2023-09-23,Inventory,-24637,Asset
+2023-09-23,Accounts Receivable,46758,Asset
+2023-09-23,Long-Term Debt,7823,Liability
+2023-09-24,Rent Expense,-27561,Expense
+2023-09-24,Marketing Expense,-42992,Expense
+2023-09-24,Cost of Goods Sold,-19891,Expense
+2023-09-24,Short-Term Debt,86385,Liability
+2023-09-24,Accounts Payable,28484,Liability
+2023-09-24,Dividends Paid,-28350,Expense
+2023-09-24,Operating Expenses,23034,Expense
+2023-09-25,Rent Expense,52780,Expense
+2023-09-25,Marketing Expense,-18198,Expense
+2023-09-25,Prepaid Expenses,98961,Asset
+2023-09-25,Long-Term Debt,41118,Liability
+2023-09-25,Accounts Receivable,95830,Asset
+2023-09-25,Marketing Expense,80830,Expense
+2023-09-25,Retained Earnings,49165,Equity
+2023-09-25,Investments,57615,Asset
+2023-09-26,Long-Term Debt,85150,Liability
+2023-09-26,Operating Expenses,-9525,Expense
+2023-09-26,Investments,69963,Asset
+2023-09-26,Marketing Expense,-43032,Expense
+2023-09-27,Accounts Receivable,21117,Asset
+2023-09-27,Salaries & Wages,-24289,Expense
+2023-09-27,Cash,-4073,Asset
+2023-09-27,"Property, Plant & Equipment",11822,Asset
+2023-09-27,Dividends Paid,-27384,Expense
+2023-09-28,Short-Term Debt,97661,Liability
+2023-09-28,Operating Expenses,76202,Expense
+2023-09-28,Rent Expense,56611,Expense
+2023-09-28,Marketing Expense,41683,Expense
+2023-09-28,Inventory,-2143,Asset
+2023-09-28,Rent Expense,6652,Expense
+2023-09-29,Accounts Receivable,35886,Asset
+2023-09-29,Cost of Goods Sold,-19743,Expense
+2023-09-29,Long-Term Debt,4935,Liability
+2023-09-30,Salaries & Wages,27299,Expense
+2023-09-30,Short-Term Debt,56133,Liability
+2023-09-30,Depreciation,60634,Expense
+2023-09-30,Prepaid Expenses,53864,Asset
+2023-09-30,Accounts Payable,14093,Liability
+2023-09-30,Salaries & Wages,27525,Expense
+2023-09-30,Rent Expense,8870,Expense
+2023-10-01,Cash,63892,Asset
+2023-10-01,Operating Expenses,3051,Expense
+2023-10-01,Salaries & Wages,-30009,Expense
+2023-10-01,Accounts Payable,-45958,Liability
+2023-10-01,Retained Earnings,-9356,Equity
+2023-10-02,Accrued Liabilities,40012,Liability
+2023-10-02,Short-Term Debt,-44480,Liability
+2023-10-02,Accrued Liabilities,-8514,Liability
+2023-10-02,Revenue,5805,Income
+2023-10-03,Dividends Paid,45865,Expense
+2023-10-04,Operating Expenses,19212,Expense
+2023-10-04,Accounts Receivable,77619,Asset
+2023-10-04,Accounts Payable,53423,Liability
+2023-10-04,Dividends Paid,34573,Expense
+2023-10-04,Retained Earnings,-36318,Equity
+2023-10-04,Interest Expense,-29211,Expense
+2023-10-04,Tax Expense,-188,Expense
+2023-10-05,Accrued Liabilities,-33445,Liability
+2023-10-05,Revenue,35280,Income
+2023-10-05,Accounts Payable,94933,Liability
+2023-10-06,Long-Term Debt,20269,Liability
+2023-10-06,Revenue,42067,Income
+2023-10-07,Cost of Goods Sold,13610,Expense
+2023-10-07,Marketing Expense,-38721,Expense
+2023-10-07,Cash,-35076,Asset
+2023-10-07,Interest Expense,7615,Expense
+2023-10-07,Cash,9191,Asset
+2023-10-07,Interest Expense,30152,Expense
+2023-10-07,Short-Term Debt,12120,Liability
+2023-10-08,Marketing Expense,36664,Expense
+2023-10-08,Utilities,7174,Expense
+2023-10-08,Cash,78867,Asset
+2023-10-08,Operating Expenses,59373,Expense
+2023-10-09,Accounts Payable,22391,Liability
+2023-10-09,Long-Term Debt,59863,Liability
+2023-10-09,Retained Earnings,25139,Equity
+2023-10-09,Accrued Liabilities,8755,Liability
+2023-10-09,Marketing Expense,-35005,Expense
+2023-10-09,Depreciation,57228,Expense
+2023-10-09,Prepaid Expenses,80499,Asset
+2023-10-10,Salaries & Wages,12943,Expense
+2023-10-10,"Property, Plant & Equipment",62599,Asset
+2023-10-10,Accounts Payable,55410,Liability
+2023-10-10,Marketing Expense,-10650,Expense
+2023-10-10,"Property, Plant & Equipment",98338,Asset
+2023-10-10,Utilities,85693,Expense
+2023-10-11,Long-Term Debt,-32626,Liability
+2023-10-11,Marketing Expense,-14469,Expense
+2023-10-11,Cash,81461,Asset
+2023-10-11,"Property, Plant & Equipment",-18272,Asset
+2023-10-11,Inventory,-28131,Asset
+2023-10-11,Operating Expenses,18469,Expense
+2023-10-12,"Property, Plant & Equipment",37593,Asset
+2023-10-12,Retained Earnings,-6063,Equity
+2023-10-12,Interest Expense,-7785,Expense
+2023-10-12,Retained Earnings,54186,Equity
+2023-10-12,Marketing Expense,-28562,Expense
+2023-10-12,Short-Term Debt,73805,Liability
+2023-10-12,Cash,23616,Asset
+2023-10-12,Inventory,27606,Asset
+2023-10-12,Depreciation,-3665,Expense
+2023-10-13,Accrued Liabilities,-38423,Liability
+2023-10-13,Retained Earnings,64894,Equity
+2023-10-13,Operating Expenses,27853,Expense
+2023-10-13,Tax Expense,53998,Expense
+2023-10-13,Accrued Liabilities,-4459,Liability
+2023-10-13,Retained Earnings,76503,Equity
+2023-10-13,Cost of Goods Sold,71950,Expense
+2023-10-14,Operating Expenses,82233,Expense
+2023-10-14,Accrued Liabilities,19443,Liability
+2023-10-14,Depreciation,98630,Expense
+2023-10-15,Interest Expense,56438,Expense
+2023-10-15,Retained Earnings,99524,Equity
+2023-10-15,Salaries & Wages,-2053,Expense
+2023-10-15,Cost of Goods Sold,-47134,Expense
+2023-10-15,Revenue,67305,Income
+2023-10-15,Revenue,57237,Income
+2023-10-15,Retained Earnings,55468,Equity
+2023-10-15,Marketing Expense,98118,Expense
+2023-10-15,Depreciation,-18578,Expense
+2023-10-15,Tax Expense,36700,Expense
+2023-10-16,Cash,89993,Asset
+2023-10-16,Interest Expense,52421,Expense
+2023-10-16,Prepaid Expenses,70544,Asset
+2023-10-16,Cash,52412,Asset
+2023-10-16,Investments,8692,Asset
+2023-10-16,Prepaid Expenses,75180,Asset
+2023-10-16,Revenue,54135,Income
+2023-10-16,Inventory,516,Asset
+2023-10-16,Depreciation,50088,Expense
+2023-10-16,Investments,-20568,Asset
+2023-10-16,Utilities,-16128,Expense
+2023-10-17,Cash,15048,Asset
+2023-10-17,Interest Expense,71866,Expense
+2023-10-18,Cost of Goods Sold,91449,Expense
+2023-10-18,Depreciation,5468,Expense
+2023-10-18,Inventory,67018,Asset
+2023-10-18,Rent Expense,68843,Expense
+2023-10-19,Cash,15901,Asset
+2023-10-19,Retained Earnings,91842,Equity
+2023-10-19,Interest Expense,38209,Expense
+2023-10-19,Long-Term Debt,42446,Liability
+2023-10-20,Accounts Receivable,77775,Asset
+2023-10-20,Accrued Liabilities,70243,Liability
+2023-10-20,Prepaid Expenses,-42629,Asset
+2023-10-20,Inventory,-36950,Asset
+2023-10-20,Accrued Liabilities,87900,Liability
+2023-10-20,Revenue,9222,Income
+2023-10-20,Prepaid Expenses,6344,Asset
+2023-10-20,Interest Expense,63776,Expense
+2023-10-20,Interest Expense,72019,Expense
+2023-10-20,Tax Expense,55219,Expense
+2023-10-21,Inventory,-10469,Asset
+2023-10-21,Investments,83943,Asset
+2023-10-21,Tax Expense,12875,Expense
+2023-10-21,Accrued Liabilities,-4934,Liability
+2023-10-21,Salaries & Wages,21128,Expense
+2023-10-21,Investments,-7778,Asset
+2023-10-22,Dividends Paid,35024,Expense
+2023-10-22,Inventory,65721,Asset
+2023-10-22,Interest Expense,-44791,Expense
+2023-10-22,Depreciation,25986,Expense
+2023-10-22,Rent Expense,-46991,Expense
+2023-10-22,Revenue,98040,Income
+2023-10-23,Rent Expense,-6831,Expense
+2023-10-23,Operating Expenses,46143,Expense
+2023-10-23,Interest Expense,-14560,Expense
+2023-10-23,Interest Expense,76479,Expense
+2023-10-23,"Property, Plant & Equipment",-29078,Asset
+2023-10-23,Accounts Receivable,54940,Asset
+2023-10-24,Depreciation,53889,Expense
+2023-10-24,Accounts Receivable,94771,Asset
+2023-10-25,Cost of Goods Sold,46502,Expense
+2023-10-25,Utilities,78133,Expense
+2023-10-26,Prepaid Expenses,-44632,Asset
+2023-10-26,Operating Expenses,-3782,Expense
+2023-10-27,Accounts Receivable,37980,Asset
+2023-10-27,Operating Expenses,38535,Expense
+2023-10-27,Inventory,45432,Asset
+2023-10-28,Cash,-7402,Asset
+2023-10-28,Depreciation,-4564,Expense
+2023-10-28,Retained Earnings,79631,Equity
+2023-10-28,"Property, Plant & Equipment",-15076,Asset
+2023-10-28,"Property, Plant & Equipment",20219,Asset
+2023-10-28,Investments,78216,Asset
+2023-10-28,Long-Term Debt,53533,Liability
+2023-10-28,Rent Expense,2874,Expense
+2023-10-29,Cash,61362,Asset
+2023-10-29,Revenue,99395,Income
+2023-10-29,Rent Expense,60253,Expense
+2023-10-29,Prepaid Expenses,-37795,Asset
+2023-10-29,Rent Expense,-47965,Expense
+2023-10-29,Tax Expense,27535,Expense
+2023-10-29,Rent Expense,18111,Expense
+2023-10-30,Tax Expense,-8765,Expense
+2023-10-30,Tax Expense,94870,Expense
+2023-10-30,Utilities,-5746,Expense
+2023-10-30,Cash,15333,Asset
+2023-10-30,Accrued Liabilities,98459,Liability
+2023-10-30,Accrued Liabilities,92157,Liability
+2023-10-30,Salaries & Wages,46462,Expense
+2023-10-30,Accounts Receivable,47628,Asset
+2023-10-30,Revenue,65657,Income
+2023-10-30,Marketing Expense,85601,Expense
+2023-10-31,Dividends Paid,83498,Expense
+2023-10-31,Investments,84066,Asset
+2023-10-31,Accounts Receivable,-20916,Asset
+2023-10-31,Cost of Goods Sold,15458,Expense
+2023-10-31,Retained Earnings,-41053,Equity
+2023-10-31,Accounts Payable,62935,Liability
+2023-11-01,Dividends Paid,17708,Expense
+2023-11-01,Accrued Liabilities,-30227,Liability
+2023-11-01,Short-Term Debt,43326,Liability
+2023-11-01,Operating Expenses,-41124,Expense
+2023-11-01,Tax Expense,76270,Expense
+2023-11-01,Prepaid Expenses,77466,Asset
+2023-11-01,Investments,-3194,Asset
+2023-11-01,Depreciation,97698,Expense
+2023-11-01,Depreciation,63711,Expense
+2023-11-02,Dividends Paid,84445,Expense
+2023-11-02,Marketing Expense,-24521,Expense
+2023-11-02,Inventory,-18293,Asset
+2023-11-02,Marketing Expense,-30373,Expense
+2023-11-03,Revenue,38774,Income
+2023-11-03,Interest Expense,-49099,Expense
+2023-11-03,Short-Term Debt,59850,Liability
+2023-11-03,Accounts Receivable,97271,Asset
+2023-11-04,Cash,35103,Asset
+2023-11-04,Utilities,-19051,Expense
+2023-11-04,Cash,-33678,Asset
+2023-11-05,Salaries & Wages,11497,Expense
+2023-11-05,Depreciation,57227,Expense
+2023-11-05,Revenue,34700,Income
+2023-11-05,Dividends Paid,-18169,Expense
+2023-11-05,Interest Expense,-22123,Expense
+2023-11-05,Revenue,-14919,Income
+2023-11-06,Cash,10197,Asset
+2023-11-06,Depreciation,20821,Expense
+2023-11-06,Revenue,-4525,Income
+2023-11-06,Marketing Expense,33291,Expense
+2023-11-06,Cost of Goods Sold,-34971,Expense
+2023-11-06,Cash,87941,Asset
+2023-11-07,Inventory,60529,Asset
+2023-11-07,Prepaid Expenses,-21798,Asset
+2023-11-07,Depreciation,26240,Expense
+2023-11-07,Interest Expense,-30947,Expense
+2023-11-07,Retained Earnings,38151,Equity
+2023-11-07,Retained Earnings,-19209,Equity
+2023-11-08,"Property, Plant & Equipment",-4799,Asset
+2023-11-08,Accrued Liabilities,1415,Liability
+2023-11-08,"Property, Plant & Equipment",64589,Asset
+2023-11-08,Accrued Liabilities,-16935,Liability
+2023-11-08,Cost of Goods Sold,21386,Expense
+2023-11-08,Marketing Expense,24102,Expense
+2023-11-09,Operating Expenses,2999,Expense
+2023-11-09,Tax Expense,-36739,Expense
+2023-11-09,Accrued Liabilities,31780,Liability
+2023-11-09,"Property, Plant & Equipment",85203,Asset
+2023-11-09,Operating Expenses,93687,Expense
+2023-11-09,Operating Expenses,-27663,Expense
+2023-11-09,Long-Term Debt,40895,Liability
+2023-11-09,Utilities,27506,Expense
+2023-11-10,Short-Term Debt,-15931,Liability
+2023-11-10,Cash,16668,Asset
+2023-11-10,Tax Expense,29698,Expense
+2023-11-10,Investments,-14902,Asset
+2023-11-10,Long-Term Debt,33860,Liability
+2023-11-11,Operating Expenses,15727,Expense
+2023-11-11,Dividends Paid,-12581,Expense
+2023-11-11,Utilities,48000,Expense
+2023-11-11,Utilities,37051,Expense
+2023-11-12,Interest Expense,12780,Expense
+2023-11-12,Revenue,59756,Income
+2023-11-12,Cash,-23974,Asset
+2023-11-12,Cost of Goods Sold,51894,Expense
+2023-11-12,Accrued Liabilities,-14158,Liability
+2023-11-12,Operating Expenses,-7054,Expense
+2023-11-12,Dividends Paid,34995,Expense
+2023-11-12,Interest Expense,22567,Expense
+2023-11-13,Retained Earnings,59388,Equity
+2023-11-13,Accounts Receivable,15206,Asset
+2023-11-13,Cost of Goods Sold,83959,Expense
+2023-11-13,Accounts Receivable,10815,Asset
+2023-11-13,Accrued Liabilities,-44961,Liability
+2023-11-14,Rent Expense,43715,Expense
+2023-11-14,Accrued Liabilities,-27908,Liability
+2023-11-14,Dividends Paid,82447,Expense
+2023-11-14,"Property, Plant & Equipment",-34311,Asset
+2023-11-14,Prepaid Expenses,35166,Asset
+2023-11-14,Dividends Paid,94101,Expense
+2023-11-14,Long-Term Debt,7616,Liability
+2023-11-14,Marketing Expense,91880,Expense
+2023-11-14,Accrued Liabilities,-3711,Liability
+2023-11-14,Long-Term Debt,15785,Liability
+2023-11-14,Salaries & Wages,57216,Expense
+2023-11-14,Cost of Goods Sold,19517,Expense
+2023-11-15,Retained Earnings,-26801,Equity
+2023-11-15,Revenue,3218,Income
+2023-11-15,Marketing Expense,-26071,Expense
+2023-11-15,Marketing Expense,28291,Expense
+2023-11-15,Long-Term Debt,35959,Liability
+2023-11-15,Retained Earnings,89379,Equity
+2023-11-15,Rent Expense,-23860,Expense
+2023-11-15,Salaries & Wages,70606,Expense
+2023-11-16,Depreciation,-20169,Expense
+2023-11-16,Accrued Liabilities,-21946,Liability
+2023-11-16,Dividends Paid,6683,Expense
+2023-11-16,Cash,45082,Asset
+2023-11-16,Tax Expense,41502,Expense
+2023-11-16,Accounts Receivable,-4797,Asset
+2023-11-16,Dividends Paid,-30262,Expense
+2023-11-17,Cash,53754,Asset
+2023-11-17,Retained Earnings,30764,Equity
+2023-11-17,Revenue,-45235,Income
+2023-11-17,Operating Expenses,17173,Expense
+2023-11-18,"Property, Plant & Equipment",-11866,Asset
+2023-11-18,Utilities,63499,Expense
+2023-11-18,Short-Term Debt,9993,Liability
+2023-11-19,Cost of Goods Sold,-45006,Expense
+2023-11-19,Interest Expense,65700,Expense
+2023-11-19,Cost of Goods Sold,51121,Expense
+2023-11-19,Retained Earnings,35947,Equity
+2023-11-19,Revenue,30820,Income
+2023-11-19,Accounts Receivable,-13614,Asset
+2023-11-20,Rent Expense,43079,Expense
+2023-11-20,Marketing Expense,-24009,Expense
+2023-11-20,Cash,53844,Asset
+2023-11-20,Depreciation,63002,Expense
+2023-11-20,Marketing Expense,78674,Expense
+2023-11-20,Accounts Payable,22920,Liability
+2023-11-21,Depreciation,-44967,Expense
+2023-11-21,Rent Expense,93888,Expense
+2023-11-21,Short-Term Debt,79048,Liability
+2023-11-21,Long-Term Debt,83060,Liability
+2023-11-22,Accounts Receivable,-44302,Asset
+2023-11-22,Accounts Receivable,16981,Asset
+2023-11-22,Inventory,-27375,Asset
+2023-11-22,Long-Term Debt,89418,Liability
+2023-11-22,Revenue,83663,Income
+2023-11-22,Dividends Paid,59028,Expense
+2023-11-22,"Property, Plant & Equipment",-23447,Asset
+2023-11-23,Inventory,12993,Asset
+2023-11-23,Cash,81060,Asset
+2023-11-23,Cost of Goods Sold,-22872,Expense
+2023-11-23,Inventory,35679,Asset
+2023-11-24,Investments,59708,Asset
+2023-11-24,Short-Term Debt,85830,Liability
+2023-11-24,Inventory,83059,Asset
+2023-11-24,Depreciation,-43362,Expense
+2023-11-24,Prepaid Expenses,-48119,Asset
+2023-11-24,Cash,76374,Asset
+2023-11-24,Operating Expenses,26996,Expense
+2023-11-24,Cost of Goods Sold,45790,Expense
+2023-11-25,Cost of Goods Sold,21088,Expense
+2023-11-25,Depreciation,-34477,Expense
+2023-11-25,Interest Expense,85705,Expense
+2023-11-26,Cost of Goods Sold,16125,Expense
+2023-11-26,Marketing Expense,90558,Expense
+2023-11-26,Retained Earnings,59430,Equity
+2023-11-26,Inventory,44634,Asset
+2023-11-26,Salaries & Wages,97735,Expense
+2023-11-26,Short-Term Debt,-6051,Liability
+2023-11-26,Salaries & Wages,-29145,Expense
+2023-11-26,Operating Expenses,60130,Expense
+2023-11-27,Investments,97907,Asset
+2023-11-27,Tax Expense,97839,Expense
+2023-11-27,Retained Earnings,93674,Equity
+2023-11-27,Accounts Receivable,-39766,Asset
+2023-11-28,Prepaid Expenses,-14685,Asset
+2023-11-28,Long-Term Debt,-27447,Liability
+2023-11-28,Prepaid Expenses,-47205,Asset
+2023-11-28,Investments,85675,Asset
+2023-11-29,Investments,-17701,Asset
+2023-11-29,"Property, Plant & Equipment",6396,Asset
+2023-11-30,Accounts Receivable,4195,Asset
+2023-11-30,Depreciation,16323,Expense
+2023-12-01,Operating Expenses,91417,Expense
+2023-12-01,Prepaid Expenses,16983,Asset
+2023-12-01,Utilities,73802,Expense
+2023-12-01,Short-Term Debt,-48039,Liability
+2023-12-01,Marketing Expense,-15218,Expense
+2023-12-01,Inventory,61361,Asset
+2023-12-01,Operating Expenses,34518,Expense
+2023-12-02,Short-Term Debt,71948,Liability
+2023-12-02,Tax Expense,61048,Expense
+2023-12-02,Cash,-18520,Asset
+2023-12-03,Inventory,-6539,Asset
+2023-12-03,Investments,98725,Asset
+2023-12-03,Accounts Payable,-38219,Liability
+2023-12-03,Accrued Liabilities,7021,Liability
+2023-12-03,Interest Expense,5480,Expense
+2023-12-04,Inventory,-19019,Asset
+2023-12-04,Rent Expense,-39308,Expense
+2023-12-04,Marketing Expense,16677,Expense
+2023-12-04,Prepaid Expenses,-40710,Asset
+2023-12-04,Cash,-31625,Asset
+2023-12-04,Interest Expense,11842,Expense
+2023-12-05,Investments,40880,Asset
+2023-12-05,Short-Term Debt,84855,Liability
+2023-12-05,Dividends Paid,-5484,Expense
+2023-12-05,Cash,87207,Asset
+2023-12-06,Cash,44108,Asset
+2023-12-06,Accrued Liabilities,-24037,Liability
+2023-12-06,Marketing Expense,36694,Expense
+2023-12-06,Interest Expense,-48080,Expense
+2023-12-06,Rent Expense,82151,Expense
+2023-12-06,Long-Term Debt,6408,Liability
+2023-12-06,Short-Term Debt,-12956,Liability
+2023-12-07,Salaries & Wages,99886,Expense
+2023-12-07,Operating Expenses,21696,Expense
+2023-12-07,Investments,68570,Asset
+2023-12-07,Accrued Liabilities,-5669,Liability
+2023-12-08,Accrued Liabilities,86093,Liability
+2023-12-08,Inventory,78180,Asset
+2023-12-08,Interest Expense,-2594,Expense
+2023-12-08,Accounts Receivable,80299,Asset
+2023-12-08,Short-Term Debt,7620,Liability
+2023-12-08,Rent Expense,4786,Expense
+2023-12-08,Investments,-30004,Asset
+2023-12-08,Utilities,80035,Expense
+2023-12-08,Retained Earnings,58036,Equity
+2023-12-09,Cash,84837,Asset
+2023-12-10,Prepaid Expenses,28958,Asset
+2023-12-10,Retained Earnings,36005,Equity
+2023-12-10,Marketing Expense,87161,Expense
+2023-12-10,Operating Expenses,59767,Expense
+2023-12-10,Long-Term Debt,77626,Liability
+2023-12-10,Long-Term Debt,84794,Liability
+2023-12-10,Operating Expenses,32733,Expense
+2023-12-11,Retained Earnings,24286,Equity
+2023-12-11,Interest Expense,39385,Expense
+2023-12-11,Short-Term Debt,-42188,Liability
+2023-12-11,Rent Expense,-37703,Expense
+2023-12-12,Cost of Goods Sold,-35045,Expense
+2023-12-12,Prepaid Expenses,31159,Asset
+2023-12-12,Accounts Payable,9550,Liability
+2023-12-12,Cash,35091,Asset
+2023-12-12,Accounts Receivable,-42585,Asset
+2023-12-12,Utilities,4722,Expense
+2023-12-12,Dividends Paid,85189,Expense
+2023-12-12,Dividends Paid,44767,Expense
+2023-12-12,Interest Expense,39424,Expense
+2023-12-13,Long-Term Debt,70747,Liability
+2023-12-13,"Property, Plant & Equipment",-46836,Asset
+2023-12-13,Cash,77402,Asset
+2023-12-14,Accounts Payable,-22202,Liability
+2023-12-14,Short-Term Debt,11114,Liability
+2023-12-14,"Property, Plant & Equipment",77039,Asset
+2023-12-14,Utilities,29768,Expense
+2023-12-14,Retained Earnings,-47225,Equity
+2023-12-15,Utilities,-27510,Expense
+2023-12-15,Operating Expenses,74206,Expense
+2023-12-15,Salaries & Wages,71759,Expense
+2023-12-15,Dividends Paid,52166,Expense
+2023-12-15,Interest Expense,54501,Expense
+2023-12-15,Retained Earnings,63143,Equity
+2023-12-15,Cost of Goods Sold,-17912,Expense
+2023-12-15,Marketing Expense,-13680,Expense
+2023-12-15,Tax Expense,26441,Expense
+2023-12-15,"Property, Plant & Equipment",-4260,Asset
+2023-12-15,Dividends Paid,-15247,Expense
+2023-12-16,Prepaid Expenses,34514,Asset
+2023-12-16,Cash,45408,Asset
+2023-12-16,Prepaid Expenses,47462,Asset
+2023-12-16,Operating Expenses,35473,Expense
+2023-12-16,Short-Term Debt,-8170,Liability
+2023-12-16,Salaries & Wages,-40779,Expense
+2023-12-17,Short-Term Debt,65945,Liability
+2023-12-17,Interest Expense,-19894,Expense
+2023-12-18,"Property, Plant & Equipment",10710,Asset
+2023-12-18,Accounts Payable,23155,Liability
+2023-12-18,Tax Expense,99762,Expense
+2023-12-18,Tax Expense,73728,Expense
+2023-12-18,Cost of Goods Sold,82450,Expense
+2023-12-19,Depreciation,-31605,Expense
+2023-12-19,Investments,67509,Asset
+2023-12-19,Tax Expense,11360,Expense
+2023-12-19,Accounts Receivable,84034,Asset
+2023-12-19,Depreciation,47799,Expense
+2023-12-20,"Property, Plant & Equipment",86269,Asset
+2023-12-20,Inventory,-9304,Asset
+2023-12-20,Accounts Payable,50336,Liability
+2023-12-20,Interest Expense,-35825,Expense
+2023-12-20,Cash,-48461,Asset
+2023-12-21,Interest Expense,74954,Expense
+2023-12-21,Cost of Goods Sold,21833,Expense
+2023-12-21,Cost of Goods Sold,16197,Expense
+2023-12-21,Revenue,71219,Income
+2023-12-21,Tax Expense,-20507,Expense
+2023-12-21,Long-Term Debt,18975,Liability
+2023-12-22,Marketing Expense,76278,Expense
+2023-12-22,Investments,93093,Asset
+2023-12-22,Dividends Paid,59598,Expense
+2023-12-22,Dividends Paid,49782,Expense
+2023-12-22,Accounts Receivable,-5276,Asset
+2023-12-22,Cash,-10440,Asset
+2023-12-23,Dividends Paid,86198,Expense
+2023-12-23,Tax Expense,-30712,Expense
+2023-12-23,Investments,57573,Asset
+2023-12-23,Dividends Paid,26946,Expense
+2023-12-23,Dividends Paid,83962,Expense
+2023-12-24,Long-Term Debt,2446,Liability
+2023-12-24,Accounts Receivable,95283,Asset
+2023-12-25,Cost of Goods Sold,81763,Expense
+2023-12-25,Long-Term Debt,44913,Liability
+2023-12-25,Cash,772,Asset
+2023-12-25,Depreciation,93184,Expense
+2023-12-25,Revenue,33286,Income
+2023-12-25,Marketing Expense,-21244,Expense
+2023-12-25,Marketing Expense,92326,Expense
+2023-12-26,Operating Expenses,-28356,Expense
+2023-12-26,Interest Expense,89005,Expense
+2023-12-26,Investments,88638,Asset
+2023-12-26,Interest Expense,10973,Expense
+2023-12-26,Dividends Paid,-5261,Expense
+2023-12-26,Inventory,-11422,Asset
+2023-12-26,Rent Expense,-15319,Expense
+2023-12-26,Interest Expense,-29975,Expense
+2023-12-26,Short-Term Debt,83195,Liability
+2023-12-26,Investments,-23010,Asset
+2023-12-27,Cash,9251,Asset
+2023-12-27,Tax Expense,52892,Expense
+2023-12-27,Cash,94098,Asset
+2023-12-27,Cost of Goods Sold,33136,Expense
+2023-12-27,Dividends Paid,13344,Expense
+2023-12-27,Operating Expenses,51158,Expense
+2023-12-28,Rent Expense,-23794,Expense
+2023-12-28,Marketing Expense,48162,Expense
+2023-12-29,Revenue,41911,Income
+2023-12-29,Salaries & Wages,-42865,Expense
+2023-12-29,Accrued Liabilities,45761,Liability
+2023-12-29,Retained Earnings,-31981,Equity
+2023-12-29,Short-Term Debt,-49493,Liability
+2023-12-30,Retained Earnings,94941,Equity
+2023-12-30,"Property, Plant & Equipment",-1076,Asset
+2023-12-30,Revenue,-22536,Income
+2023-12-30,Long-Term Debt,599,Liability
+2023-12-30,Inventory,28278,Asset
+2023-12-30,Cost of Goods Sold,29507,Expense
+2023-12-31,Operating Expenses,-580,Expense
+2023-12-31,Inventory,-21165,Asset
+2023-12-31,Depreciation,40610,Expense
+2023-12-31,Dividends Paid,36483,Expense
+2023-12-31,Short-Term Debt,88869,Liability
+2023-12-31,Dividends Paid,-6236,Expense
+2023-12-31,Rent Expense,9500,Expense
+2023-12-31,Dividends Paid,67269,Expense
+2023-12-31,Utilities,63936,Expense
+2023-12-31,Operating Expenses,85699,Expense
